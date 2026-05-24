@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Field survery project at Harrapan Civilization site Dholavira
-description: 
+description:
 img: assets/img/projects/dholavirasurvey.jpg
 importance: 2
 category: civil-engineering

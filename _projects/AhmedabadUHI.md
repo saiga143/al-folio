@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Analysis of Urban Heat Island (UHI) effect in Ahmedabad, India city
-description: 
+description:
 img: assets/img/projects/ahmedabaduhi.jpg
 importance: 2
 category: gis-rs

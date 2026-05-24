@@ -28,12 +28,7 @@
 }
 
 .header-bar h1 {
-  background: linear-gradient(
-    90deg,
-    var(--global-theme-color) 20%,
-    #ffffff 50%,
-    var(--global-theme-color) 80%
-  );
+  background: linear-gradient(90deg, var(--global-theme-color) 20%, #ffffff 50%, var(--global-theme-color) 80%);
   background-size: 200% auto;
   background-clip: text;
   -webkit-background-clip: text;

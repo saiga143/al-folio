@@ -12,15 +12,14 @@ As a doctoral candidate at Karlstad University, I contribute to teaching in the 
 ---
 
 ## [NGGA29 — Remote Sensing and Digital Photogrammetry](https://www.kau.se/en/education/programmes-and-courses/courses/NGGA29)
+
 **7.5 ECTS &nbsp;·&nbsp; Karlstad University**
-
-
 
 ---
 
 ## [NGGB48 — Digital Photogrammetry and Visualization in 3D](https://www.kau.se/en/education/programmes-and-courses/courses/NGGB48)
-**7.5 ECTS &nbsp;·&nbsp; Karlstad University**
 
+**7.5 ECTS &nbsp;·&nbsp; Karlstad University**
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

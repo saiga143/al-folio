@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Review of energy efficient technologies for control of emerging pollutants in water bodies
-description: 
+description:
 img: assets/img/projects/pollutants.jpg
 importance: 2
 category: civil-engineering

@@ -24,8 +24,6 @@ During my tenure, I had the privilege of being involved in developing shoreline 
     </div>
 </div>
 
-
-
 ---
 
 I also had the opportunity to conduct drone surveys across these diverse terrains, using UAVs to gather critical data. 🚁The experience of flying drones and processing data over such varying landscapes - from rugged coasts to delicate mangroves - was both technically challenging and incredibly insightful, further enhancing our research and its applications.
@@ -57,4 +55,4 @@ I am thankful for the opportunity to participate in and showcase our research at
 
 I am proud to have been part of an institution where science is translated into impactful actions, and I look forward to the new challenges and opportunities that lie ahead. 🚀
 
-**Thank you, NCCR, for an incredible journey.** 
+**Thank you, NCCR, for an incredible journey.**

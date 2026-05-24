@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modeling Urban Growth Scenarios and Risk assessment for Envigado, Aburra Valley, Colombia
-description: 
+description:
 img: assets/img/projects/colombia.jpg
 importance: 1
 category: gis-rs

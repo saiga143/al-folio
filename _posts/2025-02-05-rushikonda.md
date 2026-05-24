@@ -12,14 +12,12 @@ toc:
 thumbnail: assets/img/rushikonda1.jpg
 citation: true
 featured: false
-
-
 ---
 
 > ##### DISCLAIMER
 >
 > The views expressed in this article are my own and do not represent those of any affiliated organizations or government bodies. The area measurements are an estimate from satellite imagery and, hence, not precise values.
-{: .block-warning }
+> {: .block-warning }
 
 ## 1. Introduction - The Disappearing Hill and the Hidden Truths
 
@@ -34,14 +32,11 @@ For years, Rushikonda Hill stood as one of Visakhapatnam's most scenic coastal l
     Rushikonda in its original landscape form. Photocredit: Alamy
 </div>
 
-
-
 But today, Rushikonda is no longer what it used to be. What was once a pristine, tree-covered hill has been transformed into a construction site - its slopes chipped away, its forests replaced with concrete, and its natural beauty masked under artificial green mats.
 
 The project behind this transformation was marketed as a tourism initiative, a redevelopment of the Haritha Resort by the Andhra Pradesh Tourism Development Corporation (APTDC). Officials promised it would boost tourism and enhance Visakhapatanam's appeal (Source: [Hindustan Times](https://www.hindustantimes.com/india-news/construction-of-resort-in-rushikonda-draws-flak-from-environmentalists-101639162587344.html)). However, as construction progressed, serious allegations surfaced - claims that the project was not meant for public tourism at all. Instead, critics argued, it was designed for political luxury, with lavish villas, private suites, and high-end amenities that hardly matched the idea of a typical public resort (Source: [News Meter](https://newsmeter.in/top-stories/inside-rushikondas-opulent-new-government-building-a-rs-500-crore-lavish-complex-intended-as-cm-camp-office-730996)).
 
 For the longest time, the government kept the project hidden from public scrutiny. Journalists were blocked from accessing the site, images of the construction were scarce, and even drones were prevented from capturing aerial footage. When allegations of excessive destruction arose, the authorities responded in a rather unusual way - they covered the parts of the barren slopes with green mats, attempting to create an illusion that the hill remained intact (Source: [News Meter](https://newsmeter.in/top-stories/geomats-or-govt-hiding-its-mistakes-rumors-strife-after-green-mats-cover-rushikonda-707614)).
-
 
 **But satellite imagery tells a different story!**
 
@@ -80,7 +75,6 @@ This is an investigation driven by facts, visuals, and the truth that no green m
     ></iframe>
   </div>
 </div>
-
 
 Satellite imagery from December 2018 to mid-2021 confirms that Rushikonda remained in its original form, with no visible signs of deforestation or large-scale construction. Only ~3 Acres acres of built-up area existed, mostly consisting of small structures from the original Haritha Resort, which blended naturally into the green surroundings. The rest of the hill remained covered in thick vegetation, playing an important role in supporting Visakhapatnam's coastal ecosystem.
 
@@ -130,7 +124,6 @@ While no official announcements were made about the scale of the project, the sa
     Satellite image comparison between June 2021 and August 2021 showing construction initiation.
 </div>
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/rushikonda6.jpg" title="rushikonda" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -139,7 +132,6 @@ While no official announcements were made about the scale of the project, the sa
 <div class="caption">
     Google Earth imagery showing the chipping away the hill slope, digging works, machinery and vehicles in January 2022. Image source: Google Earth Pro for base map (2022). 
 </div>
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -163,7 +155,6 @@ What started as small clearings in mid-2021 exploded into full-scale land excava
 - Construction materials and heavy machinery appeared, signalling that this was not a minor redevelopment project but a complete overhaul.
 
 - The destruction was so extensive that even long-time residents of Vishakhapatnam were shocked at the scale of the land loss. Yet, the government remained tight-lipped, refusing to acknowledge the extent of the damage.
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -302,16 +293,15 @@ What was once a thriving green hill intertwined with minimal built-up structures
     Current status of Rushikonda Hill. Image source: Google Earth Pro for basemap. Reddit for field pictures
 </div>
 
-
 ---
 
 ## 3. A Project Without a Purpose
 
-With the change in government in 2024, the ruling Telugu Desam Party (TDP) inherited this project from the previous YSRCP-led administration. However, there's a major problem -  this is not a public-friendly resort.
+With the change in government in 2024, the ruling Telugu Desam Party (TDP) inherited this project from the previous YSRCP-led administration. However, there's a major problem - this is not a public-friendly resort.
 
 - Lavish interiors, including chandeliers, bathtubs, and luxury furnishings, suggest that the space was designed for an elite audience - not everyday tourists. (Source: [News Meter](https://newsmeter.in/top-stories/inside-rushikondas-opulent-new-government-building-a-rs-500-crore-lavish-complex-intended-as-cm-camp-office-730996))
 
-- Critics allege that this project was meant to be the private camp office of former Chief Minister Jagan Mohan Reddy - which explains why the scale and opulence of the construction do not match that of a regular tourism facility. (Source: [Republic World](https://www.republicworld.com/india/what-is-the-controversy-about-jagan-mohan-reddy-s-lavish-palace-on-hills-explained), [The Print](https://theprint.in/politics/jagans-rs-450-cr-palace-touted-as-resort-then-cms-residence-rushikonda-project-in-eye-of-storm/2141653/)) 
+- Critics allege that this project was meant to be the private camp office of former Chief Minister Jagan Mohan Reddy - which explains why the scale and opulence of the construction do not match that of a regular tourism facility. (Source: [Republic World](https://www.republicworld.com/india/what-is-the-controversy-about-jagan-mohan-reddy-s-lavish-palace-on-hills-explained), [The Print](https://theprint.in/politics/jagans-rs-450-cr-palace-touted-as-resort-then-cms-residence-rushikonda-project-in-eye-of-storm/2141653/))
 
 - Now, the government doesn't know what to do with it. It is too expensive to maintain as a tourism facility, and repurposing it for public use remains unclear. (Source: [The Times of India](https://timesofindia.indiatimes.com/city/visakhapatnam/legal-issues-surrounding-rushikonda-resort-project/articleshow/111353448.cms))
 
@@ -358,8 +348,8 @@ And that is the real tragedy!!
   <source src="https://storage.googleapis.com/planet-t2/rushikonda-destruction-timelapse-in-andhra-pradesh--9slChdHg/movie.mp4" type="video/mp4">
 </video>
 
-
 ---
+
 ## References
 
 - Planet Team (2025). Planet Application Program Interface: In Space for Life on Earth. San Francisco, CA. https://api.planet.com

@@ -17,7 +17,7 @@ featured: false
 > ##### DISCLAIMER
 >
 > The views expressed in this article are my own and do not represent those of any affiliated organizations or government bodies.
-{: .block-warning }
+> {: .block-warning }
 
 ## 1. Setting the Stage
 
@@ -28,7 +28,6 @@ The harbour is not just a place for docking boats; it's the heart of a community
 Adding to the complexity is the geography surrounding the harbour. Just north of it lies a narrow strip of land sandwiched between the sea and the river. This strip is home to approximately 400 buildings, including homes and small businesses. Here, the stakes are even higher. Every monsoon season brings the fear of overtopping waves from the sea and erosion from the riverbank, leaving residents struggling to adapt.
 
 For Thengaipattinam, the stakes couldn't be clearer: the harbour is more than just a physical structure. It is the lifeblood of a community that relies on it not only for economic sustenance but also for safety and stability. But as the forces of nature grow stronger, one question looms large: how long can the harbour, and the people who depend on it, hold their ground?
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -49,7 +48,7 @@ The construction of Thengaipattinam Harbour's breakwater has been a story of amb
 
 The breakwater was envisioned as a critical barrier against the Arabian Sea's powerful waves, ensuring calm waters for fishing vessels to dock safely. Designed to cater to the needs of the thriving fishing community, the harbour was expected to improve safety, reduce accidents, and enhance economic opportunities for the local population.
 
-Constructed in 2019 at a cost of Rs 97.4 crore, the breakwater was designed to create a safe docking space for fishing vessels. However, its location, characterized by high wave energy due to wave refraction and strong winds, presented significant challenges. Studies reveal the region experiences annual mean wave power between 15 and 20 kW/m, among the highest along the Indian coastline (Sanil Kumar et al 2015). This intense wave energy accelerated the degradation of the breakwater and exposed its vulnerabilities. 
+Constructed in 2019 at a cost of Rs 97.4 crore, the breakwater was designed to create a safe docking space for fishing vessels. However, its location, characterized by high wave energy due to wave refraction and strong winds, presented significant challenges. Studies reveal the region experiences annual mean wave power between 15 and 20 kW/m, among the highest along the Indian coastline (Sanil Kumar et al 2015). This intense wave energy accelerated the degradation of the breakwater and exposed its vulnerabilities.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -84,7 +83,6 @@ Both field observations and satellite imagery confirm that the extension work ha
 <video width="100%" controls>
   <source src="https://storage.googleapis.com/planet-t2/thengaipattinam-harbour-north-breakwater-modificat-36F_NLvHg/movie.mp4" type="video/mp4">
 </video>
-
 
 ---
 
@@ -141,9 +139,9 @@ This unique geography makes the strip particularly vulnerable during the monsoon
 
 ### 3.2 Observations from the Ground
 
-During my 2023 fieldwork, the fragility of this strip became painfully evident. Sea-side challenges were starkly visible: roads running along the coast bore the brunt of wave action, with large sections damaged. Towering seawalls, built to protect the strip, were frequently overtopped during storms, leaving the roads unusable and exposing nearby buildings to further risks. 
+During my 2023 fieldwork, the fragility of this strip became painfully evident. Sea-side challenges were starkly visible: roads running along the coast bore the brunt of wave action, with large sections damaged. Towering seawalls, built to protect the strip, were frequently overtopped during storms, leaving the roads unusable and exposing nearby buildings to further risks.
 
-On the river-side, the challenges were no less severe. Rising water levels in the Thamirabarani River had begun to destabilize the foundations of homes, leading to cracks in walls and visible signs of structural weakening. Field photos showed homes perilously close to collapse, with water encroaching dangerously near the edges of the settlement. 
+On the river-side, the challenges were no less severe. Rising water levels in the Thamirabarani River had begun to destabilize the foundations of homes, leading to cracks in walls and visible signs of structural weakening. Field photos showed homes perilously close to collapse, with water encroaching dangerously near the edges of the settlement.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -162,7 +160,6 @@ Despite the looming threats, the residents of this sandwiched land continue to e
 
 The daily lives of the residents reflect their precarious situation - repairing cracked walls, clearing debris after storms, and grappling with the uncertainty of when the next disaster might strike. The narrow strip north of the harbour exemplifies the immense human cost of living at nature's mercy, underscoring the urgent need for holistic resilience efforts that go beyond protecting the harbour itself.
 
-
 ---
 
 ## 4. Holding Ground Against the Waves
@@ -177,10 +174,8 @@ Thengaipattinam's story is a microcosm of the wider challenges faced by coastal 
 
 ## References
 
-1. Sanil Kumar, V., & Anoop, T. (2015). Wave energy resource assessment for the Indian shelf seas. *Renewable Energy*, 76, 212–219. [https://doi.org/10.1016/j.renene.2014.11.034](https://doi.org/10.1016/j.renene.2014.11.034)
+1. Sanil Kumar, V., & Anoop, T. (2015). Wave energy resource assessment for the Indian shelf seas. _Renewable Energy_, 76, 212–219. [https://doi.org/10.1016/j.renene.2014.11.034](https://doi.org/10.1016/j.renene.2014.11.034)
 
-2. Sirko, W., Brempong, E. A., Marcos, J. T., Annkah, A., Korme, A., Hassen, M. A., & Quinn, J. (2023). High-Resolution Building and Road Detection from Sentinel-2. *arXiv preprint* arXiv:2310.11622.
+2. Sirko, W., Brempong, E. A., Marcos, J. T., Annkah, A., Korme, A., Hassen, M. A., & Quinn, J. (2023). High-Resolution Building and Road Detection from Sentinel-2. _arXiv preprint_ arXiv:2310.11622.
 
 3. Planet Team (2025). Planet Application Program Interface: In Space for Life on Earth. San Francisco, CA. [https://api.planet.com](https://api.planet.com)
-
-

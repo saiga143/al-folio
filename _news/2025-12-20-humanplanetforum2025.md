@@ -14,7 +14,7 @@ toc:
 
 Our work on ‘The Hidden Burden of Morphological Deprivation in Small and Medium Cities‘ was highlighted by our collaborators at Human Planet Forum 2025 held at Ispra, Italy, on 19-20 Nov 2025
 
-First, it was presented by Dr. Dana R. Thomson, who highlighted the utility of the [City Segments v1](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XLRSF0) dataset, one of the inputs to our manuscript. 
+First, it was presented by Dr. Dana R. Thomson, who highlighted the utility of the [City Segments v1](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XLRSF0) dataset, one of the inputs to our manuscript.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,7 +28,7 @@ You can watch the streamed video here: https://webcast.ec.europa.eu/geo-human-pl
 
 ---
 
-Second, Dr. Monika Kuffer highlighted our work while discussing how [IDEABench](https://phys-techsciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/PT/X4NJII) data (our second input data) was used as benchmark data for training models to understand morphological deprivation characteristics of neighbourhoods. 
+Second, Dr. Monika Kuffer highlighted our work while discussing how [IDEABench](https://phys-techsciences.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/PT/X4NJII) data (our second input data) was used as benchmark data for training models to understand morphological deprivation characteristics of neighbourhoods.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -36,7 +36,7 @@ Second, Dr. Monika Kuffer highlighted our work while discussing how [IDEABench](
     </div>
 </div>
 
-She also presented the network of projects that are working on deprived urban areas, of which DEPRIMAP is also a part. 
+She also presented the network of projects that are working on deprived urban areas, of which DEPRIMAP is also a part.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -47,4 +47,3 @@ She also presented the network of projects that are working on deprived urban ar
 You can watch the streamed video here: https://webcast.ec.europa.eu/geo-human-planet-forum-2025-25-11-20
 
 We once again thank our collaborators for highlighting our work and our project at the Human Planet Forum 2025.
-

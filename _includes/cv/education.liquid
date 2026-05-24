@@ -44,7 +44,10 @@
                     <p class="location">
                       <i class="fa-solid fa-location-dot iconlocation"></i>
                       {% assign loc_parts = location | strip | split: ', ' %}
-                      {% for part in loc_parts %}{{ part }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}
+                      {% for part in loc_parts -%}
+                        {{- part -}}
+                        {%- unless forloop.last %}<br>{% endunless -%}
+                      {%- endfor %}
                     </p>
                   </td>
                 </tr>

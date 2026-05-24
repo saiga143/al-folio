@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mapping Technology and Society - A case study of Palaj village, Gujarat, India
-description: 
+description:
 img: assets/img/projects/palaj.jpg
 importance: 2
 category: sociology

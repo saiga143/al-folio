@@ -25,7 +25,6 @@ cv:
           - "Delivering lectures and practical sessions in geomatics, with a focus on UAV applications"
           - "Member of the CSR (Centre for Societal Risk Research) and CRS (Centre for Research on Sustainable Societal Transformation)"
           - "Core member of DynEO4SLUMS and SESAC projects"
-    
 
       - company: National Centre for Coastal Research (NCCR), Ministry of Earth Sciences, Government of India
         position: Project Scientist I — Remote Sensing
@@ -175,6 +174,3 @@ cv:
         level: Expert
         icon: fa-solid fa-helicopter
         keywords: "Flight planning, Agisoft Metashape, Drone2Map, Pix4D, RTK-PPK"
-
-
-

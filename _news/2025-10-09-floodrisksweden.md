@@ -12,8 +12,6 @@ toc:
 
 At the [Flood Risk Sweden Conference](https://www.kau.se/flood-risk-sweden) 2025 at Karlstad University, I presented a poster titled ‘DEPRIMAP: Mapping Deprived Urban Areas at Global Scale‘, showcasing the ongoing research from the project.
 
- 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/floodrisksweden.jpg" title="flood risk sweden conference" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -34,10 +32,8 @@ As part of Phase I, two key research papers that were recently published were pr
 
 Participating in the conference was an opportunity to connect DEPRIMAP’s global-scale work with conversations on urban resilience, risk governance, and sustainable adaptation, emphasising that understanding where and how people live is fundamental to addressing climate risks equitably.
 
-
 ---
 
 ### Acknowledgements
 
-I thank the [Centre for Societal Risk Research (CSR)](https://www.kau.se/en/csr) for the financial support for attending the conference. 
-
+I thank the [Centre for Societal Risk Research (CSR)](https://www.kau.se/en/csr) for the financial support for attending the conference.

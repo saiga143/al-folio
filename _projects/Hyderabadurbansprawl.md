@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Urban sprawling analysis of Hyderabad, an Indian city
-description: 
+description:
 img: assets/img/projects/hyderabadurbansprawl.jpg
 importance: 3
 category: gis-rs

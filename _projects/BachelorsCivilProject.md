@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Design of a 5-storey building consisting of RCC structure with masonry infills
-description: 
+description:
 img: assets/img/projects/civilproject.jpg
 importance: 2
 category: civil-engineering

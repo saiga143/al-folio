@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Designing a drinking water treatment plan for an institute
-description: 
+description:
 img: assets/img/projects/drinkingwater.jpg
 importance: 2
 category: civil-engineering

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Influence of urbanization of a city on its vegetated area. Case study on the city of Enschede, The Netherlands
-description: 
+description:
 img: assets/img/projects/enschedeurbanization.jpg
 importance: 1
 category: gis-rs
 related_publications: false
 ---
 
-Analyzed how the urbanization of Enschede city replaced the vegetated area with concrete surfaces over the years. 
+Analyzed how the urbanization of Enschede city replaced the vegetated area with concrete surfaces over the years.
 
 Statistical analysis was performed to identify the pattern of replacing the vegetated area with concrete surfaces.
 

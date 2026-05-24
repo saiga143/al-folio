@@ -30,7 +30,12 @@
             <tbody>
               <tr>
                 <td>
-                  <span class="badge font-weight-bold text-uppercase align-middle" style="min-width: 75px; background-color: var(--global-theme-color); color: white;">{{ date }}</span>
+                  <span
+                    class="badge font-weight-bold text-uppercase align-middle"
+                    style="min-width: 75px; background-color: var(--global-theme-color); color: white;"
+                  >
+                    {{- date -}}
+                  </span>
                 </td>
               </tr>
               {% capture location %}
@@ -42,7 +47,10 @@
                     <p class="location">
                       <i class="fa-solid fa-location-dot iconlocation"></i>
                       {% assign loc_parts = location | strip | split: ', ' %}
-                      {% for part in loc_parts %}{{ part }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}
+                      {% for part in loc_parts -%}
+                        {{- part -}}
+                        {%- unless forloop.last %}<br>{% endunless -%}
+                      {%- endfor %}
                     </p>
                   </td>
                 </tr>
@@ -50,14 +58,22 @@
               {% if entry.logo %}
                 <tr>
                   <td class="text-center">
-                    <img src="{{ '/assets/img/logos/' | append: entry.logo | relative_url }}" alt="{{ entry.company }} logo" style="max-width: 120px; max-height: 80px; object-fit: contain; margin-top: 0.5rem;">
+                    <img
+                      src="{{ '/assets/img/logos/' | append: entry.logo | relative_url }}"
+                      alt="{{ entry.company }} logo"
+                      style="max-width: 120px; max-height: 80px; object-fit: contain; margin-top: 0.5rem;"
+                    >
                   </td>
                 </tr>
               {% endif %}
               {% if entry.news_tag %}
                 <tr>
                   <td class="text-center">
-                    <a href="{{ '/news/tags/' | append: entry.news_tag | append: '/' | relative_url }}" class="btn btn-sm mt-2" style="background-color: var(--global-theme-color); color: white; font-size: 0.65rem; padding: 0.2rem 0.5rem; border-radius: 4px; white-space: nowrap;">
+                    <a
+                      href="{{ '/news/tags/' | append: entry.news_tag | append: '/' | relative_url }}"
+                      class="btn btn-sm mt-2"
+                      style="background-color: var(--global-theme-color); color: white; font-size: 0.65rem; padding: 0.2rem 0.5rem; border-radius: 4px; white-space: nowrap;"
+                    >
                       <i class="fa-solid fa-newspaper" style="font-size: 0.65rem;"></i> News
                     </a>
                   </td>

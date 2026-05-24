@@ -18,12 +18,12 @@ images:
 > ##### NOTE
 >
 > This article was originally published on LinkedIn in June 2019.
-{: .block-tip }
+> {: .block-tip }
 
 > ##### DISCLAIMER
 >
 > The views expressed in this article are my own and do not represent those of any affiliated organizations or government bodies.
-{: .block-warning }
+> {: .block-warning }
 
 ## 1. Introduction
 
@@ -53,7 +53,6 @@ It is crucial for the city and state authorities to plan interventions that ensu
 
 The situation got worse in [2015](https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2F2015_Indian_heat_wave&sa=D&sntz=1&usg=AOvVaw30I1R8RSb6e0Xj6TpwF9ap). Especially, the states of [Andhra Pradesh](https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAndhra_Pradesh&sa=D&sntz=1&usg=AOvVaw3k36ZBay5rrfT5GgjBBYRP) and [Telangana](https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTelangana&sa=D&sntz=1&usg=AOvVaw2PAxBeugfc-F-8hGd9Jecl) recorded the highest number of deaths due to severe heatwaves (around 2500 people died due to the [2015 heatwave](https://www.google.com/url?q=https%3A%2F%2Fedition.cnn.com%2F2015%2F06%2F01%2Fasia%2Findia-heat-wave-deaths%2Findex.html&sa=D&sntz=1&usg=AOvVaw1I0h3slLQsAGpTT8-y5FL8) alone in these two states).
 
-
 ---
 
 ## 2. Telanganaku Harita Haram (TKHH)
@@ -66,12 +65,11 @@ To address the extreme climate change impacts especially the heatwaves, the Gove
     </div>
 </div>
 
-
 ### 2.1 Implementation and Progress
 
-To implement such a vast-scale program, the government decided to partner with various [state](http://www.google.com/url?q=http%3A%2F%2Fharithaharam.telangana.gov.in%2FPages%2FPartners_State.aspx&sa=D&sntz=1&usg=AOvVaw2BBep0rizIwRyNrLUwY1In) & [central](http://www.google.com/url?q=http%3A%2F%2Fharithaharam.telangana.gov.in%2FPages%2FPartners_Central.aspx&sa=D&sntz=1&usg=AOvVaw3idUk272cKMk2zKm7qXq8L) departments and private bodies like NGO's. The Government of Telangana ran campaigns with slogans like *'Plant a Tree, Plant a Life', 'Don't let our future dry up'* & *'Live for Today, Plant for Tomorrow'* to encourage the citizens of the state to participate in the ambitious plan of planting 2.3 billion trees. People from different walks of life, government agencies, officers, prominent citizens and public representatives were invited and encouraged to participate in the event. The government designed the '[District Action Plan](http://www.google.com/url?q=http%3A%2F%2Ffmis.telangana.gov.in%2FDashboardReports%2FOtherDepartments%2FDistrictActionPlan%2FPMIS_DISTACP_Target.aspx&sa=D&sntz=1&usg=AOvVaw0-1CfbH0Nm1BUQICe32mdR)' and 'Mandal level Plans' to implement the TKHH program. These plans give detailed information about various aspects of the program like the number of seedlings required, the target of each district/mandal, number of sites, location of sites and assigned [roles and responsibilities](http://www.google.com/url?q=http%3A%2F%2Fharithaharam.telangana.gov.in%2FPages%2FPartners_State.aspx&sa=D&sntz=1&usg=AOvVaw2BBep0rizIwRyNrLUwY1In) of each department involved in the TKHH program.
+To implement such a vast-scale program, the government decided to partner with various [state](http://www.google.com/url?q=http%3A%2F%2Fharithaharam.telangana.gov.in%2FPages%2FPartners_State.aspx&sa=D&sntz=1&usg=AOvVaw2BBep0rizIwRyNrLUwY1In) & [central](http://www.google.com/url?q=http%3A%2F%2Fharithaharam.telangana.gov.in%2FPages%2FPartners_Central.aspx&sa=D&sntz=1&usg=AOvVaw3idUk272cKMk2zKm7qXq8L) departments and private bodies like NGO's. The Government of Telangana ran campaigns with slogans like _'Plant a Tree, Plant a Life', 'Don't let our future dry up'_ & _'Live for Today, Plant for Tomorrow'_ to encourage the citizens of the state to participate in the ambitious plan of planting 2.3 billion trees. People from different walks of life, government agencies, officers, prominent citizens and public representatives were invited and encouraged to participate in the event. The government designed the '[District Action Plan](http://www.google.com/url?q=http%3A%2F%2Ffmis.telangana.gov.in%2FDashboardReports%2FOtherDepartments%2FDistrictActionPlan%2FPMIS_DISTACP_Target.aspx&sa=D&sntz=1&usg=AOvVaw0-1CfbH0Nm1BUQICe32mdR)' and 'Mandal level Plans' to implement the TKHH program. These plans give detailed information about various aspects of the program like the number of seedlings required, the target of each district/mandal, number of sites, location of sites and assigned [roles and responsibilities](http://www.google.com/url?q=http%3A%2F%2Fharithaharam.telangana.gov.in%2FPages%2FPartners_State.aspx&sa=D&sntz=1&usg=AOvVaw2BBep0rizIwRyNrLUwY1In) of each department involved in the TKHH program.
 
-The infographic shows the total number of seedlings planted from 2015-2018 in the State of Telangana as part of TKHH program. The program had a slow start with only 2.9 million seedlings planted in the first year of the project. In the next three years through active campaigning and increased awareness, they could achieve 181,215 & 275 million plantations in 2016, 2017 & 2018 respectively. By the end of 2018, they could reach a total of 675 million plantations, which is just 29% of their set target (2300 million plantations by 2019). 
+The infographic shows the total number of seedlings planted from 2015-2018 in the State of Telangana as part of TKHH program. The program had a slow start with only 2.9 million seedlings planted in the first year of the project. In the next three years through active campaigning and increased awareness, they could achieve 181,215 & 275 million plantations in 2016, 2017 & 2018 respectively. By the end of 2018, they could reach a total of 675 million plantations, which is just 29% of their set target (2300 million plantations by 2019).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

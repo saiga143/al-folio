@@ -55,4 +55,3 @@ To keep the session interactive, I incorporated Mentimeter for live questions, a
 Covering topics like UAV types, flight planning, mapping workflows, and regulations, my goal was not just to teach concepts but to demonstrate their real-world relevance.
 
 Grateful for this opportunity and the positive interaction with such an enthusiastic group of students! Looking forward to many more teaching experiences where I can share knowledge, inspire learning, and grow alongside.
-

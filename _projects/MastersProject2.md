@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assessing the solar energy production through rooftop solar installations in Enschede, The Netherlands
-description: 
+description:
 img: assets/img/projects/enschedesolar.jpg
 importance: 1
 category: gis-rs

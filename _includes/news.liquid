@@ -62,9 +62,7 @@
               <p class="post-tags mt-1 mb-0">
                 {% if has_tags %}
                   {% for tag in item.tags %}
-                    <a href="{{ '/news/tags/' | append: tag | append: '/' | relative_url }}">
-                      <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}
-                    </a>
+                    <a href="{{ '/news/tags/' | append: tag | append: '/' | relative_url }}"> <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }} </a>
                   {% endfor %}
                 {% endif %}
                 {% if has_cats %}

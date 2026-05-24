@@ -28,7 +28,7 @@ Long-form travel stories, reflections, and guides from our journeys across India
 <a href="https://agnyathavasi.wordpress.com/" target="_blank" rel="noopener noreferrer"
    class="btn d-inline-flex align-items-center gap-2 mt-2"
    style="background-color: var(--global-theme-color); color: white; font-size: 1rem; padding: 0.6rem 1.4rem; border-radius: 6px; text-decoration: none;">
-  <i class="fa-solid fa-pen-to-square"></i> Agnyathavasi — Travel Blog
+<i class="fa-solid fa-pen-to-square"></i> Agnyathavasi — Travel Blog
 </a>
 
 ---
@@ -40,5 +40,5 @@ Travel videos, vlogs, and documentaries from my adventures.
 <a href="https://www.youtube.com/@saiganeshv" target="_blank" rel="noopener noreferrer"
    class="btn d-inline-flex align-items-center gap-2 mt-2"
    style="background-color: #ff0000; color: white; font-size: 1rem; padding: 0.6rem 1.4rem; border-radius: 6px; text-decoration: none;">
-  <i class="fa-brands fa-youtube"></i> YouTube Channel
+<i class="fa-brands fa-youtube"></i> YouTube Channel
 </a>

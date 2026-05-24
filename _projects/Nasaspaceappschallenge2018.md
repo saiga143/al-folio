@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The land where displaced people settle
-description: 
+description:
 img: assets/img/projects/nasachallenge2018.jpg
 importance: 2
 category: gis-rs

@@ -16,24 +16,24 @@ citation: true
 > ##### NOTE
 >
 > This article was originally published on LinkedIn in May 2021.
-{: .block-tip }
+> {: .block-tip }
 
 > ##### DISCLAIMER
 >
 > The views expressed in this article are my own and do not represent those of any affiliated organizations or government bodies.
-{: .block-warning }
+> {: .block-warning }
 
 ## 1. Introduction
 
 Over the past few years, societies have undergone tremendous transformations due to rapid urbanization. Cities occupy a relatively small fraction of the Earth’s land area but serve as habitats for more than half of the human race (Parés-Ramos et al., 2013). **Cities are the highest form of human interaction**. Therefore, cities are increasingly becoming important as they act as catalysts of social, economic, cultural, and ecological change. They have attracted many people by providing employment opportunities, housing, education, and health care, being major cultural centers, centers of innovation, and provision of economic activities.
 
-Rapid urbanization in many developing countries has resulted in uncontrolled urban growth (UN-Habitat, 2016). Uncontrolled urban expansion has been known to cause **environmental degradation** and **social tension** thereby threatening resilient and sustainable developments of cities. At the same time, the climate of our planet is changing rapidly both at the global and local scales. Cities are being continuously confronted with disasters such as floods, earthquakes, landslides, storms, and other extreme weather events. Climate change affects the intensity, magnitude, and spread of hazards whereas urban expansion increases population exposure to hazards. Therefore, systematic and contemporary strategies to build climate-resilient and sustainable cities should be developed. 
+Rapid urbanization in many developing countries has resulted in uncontrolled urban growth (UN-Habitat, 2016). Uncontrolled urban expansion has been known to cause **environmental degradation** and **social tension** thereby threatening resilient and sustainable developments of cities. At the same time, the climate of our planet is changing rapidly both at the global and local scales. Cities are being continuously confronted with disasters such as floods, earthquakes, landslides, storms, and other extreme weather events. Climate change affects the intensity, magnitude, and spread of hazards whereas urban expansion increases population exposure to hazards. Therefore, systematic and contemporary strategies to build climate-resilient and sustainable cities should be developed.
 
 ---
 
 ## 2. Why Asian Cities?
 
-In terms of geographical area and population, Asia is the largest of the world’s five continents with over 50 countries. It covers approximately **45 million square kilometers** and accounts for nearly **30% of the earth’s land area**. It has a population of **4.6 billion people**, contributing to about 58% of the world’s population as of 2021. With urbanization becoming a global phenomenon, especially in African and Asian countries, it is projected that by 2050, more than **66% of the world’s population** will reside in cities, with 90% of that increase occurring in these two continents alone. Asia will be home to around **3.3 billion** urban residents by 2050 which is almost two-thirds of the world’s urban population (Dulal, 2019). The below image shows the persistent issues and emerging urban challenges due to the increasing urban population. 
+In terms of geographical area and population, Asia is the largest of the world’s five continents with over 50 countries. It covers approximately **45 million square kilometers** and accounts for nearly **30% of the earth’s land area**. It has a population of **4.6 billion people**, contributing to about 58% of the world’s population as of 2021. With urbanization becoming a global phenomenon, especially in African and Asian countries, it is projected that by 2050, more than **66% of the world’s population** will reside in cities, with 90% of that increase occurring in these two continents alone. Asia will be home to around **3.3 billion** urban residents by 2050 which is almost two-thirds of the world’s urban population (Dulal, 2019). The below image shows the persistent issues and emerging urban challenges due to the increasing urban population.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -49,8 +49,7 @@ In the West, where the largest metropolises barely exceed 10 million inhabitants
     </div>
 </div>
 
-Already the scale of greenhouse gas emissions in Asia is similar to that of developed economies from the west. If we don’t plan the Asian cities of tomorrow in a sustainable way the impacts of climate change across the world would be devastating as cities are responsible for more than 70% of global carbon dioxide emissions (UN-Habitat, 2016). Asia should take inspiration but not follow the footprints of western countries in advancing their cities or in urbanization patterns as Asia is significantly different from western cities in terms of geographical and climatic contexts, culture and heritage, living style, density, land use mixes, travel behavior, policies, governance, and institutional capacities. 
-
+Already the scale of greenhouse gas emissions in Asia is similar to that of developed economies from the west. If we don’t plan the Asian cities of tomorrow in a sustainable way the impacts of climate change across the world would be devastating as cities are responsible for more than 70% of global carbon dioxide emissions (UN-Habitat, 2016). Asia should take inspiration but not follow the footprints of western countries in advancing their cities or in urbanization patterns as Asia is significantly different from western cities in terms of geographical and climatic contexts, culture and heritage, living style, density, land use mixes, travel behavior, policies, governance, and institutional capacities.
 
 > **Asia has to build its own unique cities embracing its culture, heritage, societal values while being climate-resilient and sustainable.**
 
@@ -58,9 +57,9 @@ Already the scale of greenhouse gas emissions in Asia is similar to that of deve
 
 ## 3. Urban Form of Asian Cities
 
-Asian cities have been **compact with high densities** with mixed land-use patterns for a long time. While dense cities offer some advantages like *efficient land use, shorter commutes, better access to services, and preservation of green space outside the urban centers*, they also have many negative effects, especially for the low-income groups (Cheshmehzangi & Butters, 2016). The influx of millions of new city inhabitants, combined with poor urban planning and a lack of appropriate policy instruments, put **enormous pressure on land use, density, safety, resources, resilience, and sustainability**. As a result, urbanization patterns in Asian cities are very diverse and uneven, with *sprawl, congestion, environmental degradation, fiscal pressures, unemployment, and informal settlements* developing in both peri-urban and urban areas.
+Asian cities have been **compact with high densities** with mixed land-use patterns for a long time. While dense cities offer some advantages like _efficient land use, shorter commutes, better access to services, and preservation of green space outside the urban centers_, they also have many negative effects, especially for the low-income groups (Cheshmehzangi & Butters, 2016). The influx of millions of new city inhabitants, combined with poor urban planning and a lack of appropriate policy instruments, put **enormous pressure on land use, density, safety, resources, resilience, and sustainability**. As a result, urbanization patterns in Asian cities are very diverse and uneven, with _sprawl, congestion, environmental degradation, fiscal pressures, unemployment, and informal settlements_ developing in both peri-urban and urban areas.
 
-One of the main disadvantages observed due to the high-density pattern in many Asian cities is the **reducing affordability of living space**. To accommodate the massive influx of residents, cities began vertical growth with high-rise buildings and massive residential complexes, encroaching on the city's small green spaces, and **resulting in concrete jungles**. The skyrocketing prices of living spaces, combined with issues such as pollution, fire hazards, inadequate parking spaces, lack of green spaces, poor sound insulation, and a lack of adequate public facilities, drove many people out of cities, especially to the fringes. People with insufficient financial resources began to settle on the fringes and in informal settlements, resulting in **sprawl** and **urban fragmentation**. Urban sprawl is further being fuelled by demographic shifts such as *aging population, volatile economic growth, unemployment, low-wage low-skilled jobs, income inequality, social polarization, and segregation* (United Nations, 2019).
+One of the main disadvantages observed due to the high-density pattern in many Asian cities is the **reducing affordability of living space**. To accommodate the massive influx of residents, cities began vertical growth with high-rise buildings and massive residential complexes, encroaching on the city's small green spaces, and **resulting in concrete jungles**. The skyrocketing prices of living spaces, combined with issues such as pollution, fire hazards, inadequate parking spaces, lack of green spaces, poor sound insulation, and a lack of adequate public facilities, drove many people out of cities, especially to the fringes. People with insufficient financial resources began to settle on the fringes and in informal settlements, resulting in **sprawl** and **urban fragmentation**. Urban sprawl is further being fuelled by demographic shifts such as _aging population, volatile economic growth, unemployment, low-wage low-skilled jobs, income inequality, social polarization, and segregation_ (United Nations, 2019).
 
 Most green spaces within cities were **lost** due to poor land-use planning and lack of proper land management policies, resulting in severe environmental and health issues.
 
@@ -82,7 +81,7 @@ Most green spaces within cities were **lost** due to poor land-use planning and 
 
 Globally, achieving sustainable development has been the goal of every country. Sustainable development as defined in the Brundtland Commission report in 1987 is the development
 
-> *"that meets the needs of the present without compromising the ability of future generations to meet their own needs"*
+> _"that meets the needs of the present without compromising the ability of future generations to meet their own needs"_
 
 <div class="row align-items-center">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -104,13 +103,13 @@ We humans have historically taken a **straightforward approach** to the consumpt
 It is accomplished by consuming assets and products responsibly and feeding back the consumed assets and products into **economical, societal, and environmental activities** (United Nations, 2019). Circularity can be characterized by three key factors:
 
 1. **Increasing the utilization of assets and products.**
-   Example: Distributing unconsumed food to economically disadvantaged members of a community instead of disposing of it as waste — *social circularity*
+   Example: Distributing unconsumed food to economically disadvantaged members of a community instead of disposing of it as waste — _social circularity_
 
 2. **Increasing their lifetime.**
-   Example: Utilizing household-consumed water for irrigation — *environmental circularity*
+   Example: Utilizing household-consumed water for irrigation — _environmental circularity_
 
 3. **Creating a new life.**
-   Example: Recycling plastic waste for road construction — *environmental and economic circularity*
+   Example: Recycling plastic waste for road construction — _environmental and economic circularity_
 
 In addition to the Sustainable Development Goals and climate goals, the transition to circular cities would aid cities in achieving many persistent urban challenges like improved urban green spaces, mobility, biodiversity, and economic development. The following case studies show how Asian cities have adopted innovative and sustainable strategies by either **increasing utilization**, **extending lifetime**, or **creating new life** for assets and products.
 
@@ -141,7 +140,7 @@ Ultimately, the ambitious initiative seeks to eliminate open dumping and waste b
     </div>
 </div>
 
-> *In the sector of solid waste management, we can clearly see this approach as a circular city solution making the city climate-resilient and sustainable by creating a new life for the assets and products.*
+> _In the sector of solid waste management, we can clearly see this approach as a circular city solution making the city climate-resilient and sustainable by creating a new life for the assets and products._
 
 ---
 
@@ -151,9 +150,9 @@ Ultimately, the ambitious initiative seeks to eliminate open dumping and waste b
 
 In urban areas, buildings and transportation account for a significant portion of energy demand. Because of the emission of greenhouse gases and other pollutants, energy consumption, which is mostly derived from fossil fuels, has an impact on climate and air quality. The IPCC has recognized compact urban form as a key climate mitigation measure, owing to lower per capita energy usage. High-density cities can accommodate more people in a smaller space. As a result, there is a movement toward taller buildings in order to accommodate the growing population.
 
-> However, researchers at UCL’s Energy Institute reported in 2017 that high-rise office buildings with 20 or more storeys use approximately two and a half times more energy per square meter of floor area than low-rise buildings with 6 storeys or less. 
+> However, researchers at UCL’s Energy Institute reported in 2017 that high-rise office buildings with 20 or more storeys use approximately two and a half times more energy per square meter of floor area than low-rise buildings with 6 storeys or less.
 
-Tokyo, Japan’s capital, is one of the world’s largest metropolitan cities, with a day population of about 15.6 million as of 2010. The region, which generates nearly 20% of the country’s GDP, is by far the most important economic center in the country. Tokyo’s annual energy consumption was around 832 Peta Joules in 2013, with the industrial and commercial sectors accounting for more than 68% of the total (Doll & de Oliveria, 2017). As the country’s largest economic hub, Tokyo faces urban development issues due to a steady influx of people. Tokyo, with its high-rise buildings, has an issue to address in order to achieve maximum energy efficiency and reduce total energy usage to improve the city’s sustainability and climate resilience. 
+Tokyo, Japan’s capital, is one of the world’s largest metropolitan cities, with a day population of about 15.6 million as of 2010. The region, which generates nearly 20% of the country’s GDP, is by far the most important economic center in the country. Tokyo’s annual energy consumption was around 832 Peta Joules in 2013, with the industrial and commercial sectors accounting for more than 68% of the total (Doll & de Oliveria, 2017). As the country’s largest economic hub, Tokyo faces urban development issues due to a steady influx of people. Tokyo, with its high-rise buildings, has an issue to address in order to achieve maximum energy efficiency and reduce total energy usage to improve the city’s sustainability and climate resilience.
 
 ### 7.2 Solution
 
@@ -174,7 +173,7 @@ Tokyo plans to cut building energy usage in all tenant buildings by around one-s
     </div>
 </div>
 
-> *This can also be seen as a circular city solution in the energy consumption sector, helping to make our cities more sustainable and climate resilient by improving the utilization of assets and products.*
+> _This can also be seen as a circular city solution in the energy consumption sector, helping to make our cities more sustainable and climate resilient by improving the utilization of assets and products._
 
 ---
 
@@ -203,35 +202,35 @@ The system’s advantages for building owners and tenants go far beyond carbon d
     </div>
 </div>
 
-> *In the field of developing sustainable communities, this may take the form of a circular city solution, in which we extend the life of an asset, such as water, by using it for cooling.*
+> _In the field of developing sustainable communities, this may take the form of a circular city solution, in which we extend the life of an asset, such as water, by using it for cooling._
 
-These three case studies are only a handful of the many circular city strategies that Asian cities are implementing. It is critical that we build our future cities in a sustainable, climate-resilient way, and circular cities could enable us to do so. 
+These three case studies are only a handful of the many circular city strategies that Asian cities are implementing. It is critical that we build our future cities in a sustainable, climate-resilient way, and circular cities could enable us to do so.
 
 ---
 
 ## References
 
-- C40 Cities. (2017). 100 Solutions for Climate action in Cities. https://issuu.com/sustainia/docs/cities100_2017 
+- C40 Cities. (2017). 100 Solutions for Climate action in Cities. https://issuu.com/sustainia/docs/cities100_2017
 
-- Chattopadhyay, S., Dutta, A., & Ray, S. (2009). Municipal solid waste management in Kolkata, India - A review. Waste Management, 29(4), 1449–1458. https://doi.org/10.1016/j.wasman.2008.08.030 
+- Chattopadhyay, S., Dutta, A., & Ray, S. (2009). Municipal solid waste management in Kolkata, India - A review. Waste Management, 29(4), 1449–1458. https://doi.org/10.1016/j.wasman.2008.08.030
 
-- Chen, T. L., Chiu, H. W., & Lin, Y. F. (2020). How do East and Southeast Asian cities differ from Western cities? A systematic review of the urban form characteristics. Sustainability, 12(6). https://doi.org/10.3390/su12062423 
+- Chen, T. L., Chiu, H. W., & Lin, Y. F. (2020). How do East and Southeast Asian cities differ from Western cities? A systematic review of the urban form characteristics. Sustainability, 12(6). https://doi.org/10.3390/su12062423
 
-- Cheshmehzangi, A., & Butters, C. (2016). Sustainable living and urban density: The choices are wide open. Energy Procedia, 88, 63–70. https://doi.org/10.1016/j.egypro.2016.06.020 
+- Cheshmehzangi, A., & Butters, C. (2016). Sustainable living and urban density: The choices are wide open. Energy Procedia, 88, 63–70. https://doi.org/10.1016/j.egypro.2016.06.020
 
-- Doll, C. N., & de Oliveria, J. A. puppim. (2017). Urbanization and Climate Co-Benefits: Implementation of win-win interventions in cities. Taylor & Francis. 
+- Doll, C. N., & de Oliveria, J. A. puppim. (2017). Urbanization and Climate Co-Benefits: Implementation of win-win interventions in cities. Taylor & Francis.
 
-- Dulal, H. B. (2019). Cities in Asia: how are they adapting to climate change? Journal of Environmental Studies and Sciences, 9(1), 13–24. https://doi.org/10.1007/s13412-018-0534-1 
+- Dulal, H. B. (2019). Cities in Asia: how are they adapting to climate change? Journal of Environmental Studies and Sciences, 9(1), 13–24. https://doi.org/10.1007/s13412-018-0534-1
 
-- Parés-Ramos, I. K., Álvarez-Berríos, N. L., & Aide, T. M. (2013). Mapping urbanization dynamics in major cities of Colombia, Ecuador, Perú, and Bolivia using night-time satellite imagery. Land, 2(1), 37–59. https://doi.org/10.3390/land2010037 
+- Parés-Ramos, I. K., Álvarez-Berríos, N. L., & Aide, T. M. (2013). Mapping urbanization dynamics in major cities of Colombia, Ecuador, Perú, and Bolivia using night-time satellite imagery. Land, 2(1), 37–59. https://doi.org/10.3390/land2010037
 
-- UN-Habitat. (2016). Urbanization and Development Emerging Futures: World Cities Report. 
+- UN-Habitat. (2016). Urbanization and Development Emerging Futures: World Cities Report.
 
-- United Nations. (2019). A Guide to Circular Cities. 
+- United Nations. (2019). A Guide to Circular Cities.
 
-- World Bank. (2014). Urban China: toward efficient, inclusive, and sustainable urbanization. World Bank. 
+- World Bank. (2014). Urban China: toward efficient, inclusive, and sustainable urbanization. World Bank.
 
-- Zeng, C., Deng, X., Dong, J., & Hu, P. (2016). Urbanization and sustainability: Comparison of the processes in “BIC” countries. Sustainability (Switzerland), 8(4), 1–18. https://doi.org/10.3390/su8040400 
+- Zeng, C., Deng, X., Dong, J., & Hu, P. (2016). Urbanization and sustainability: Comparison of the processes in “BIC” countries. Sustainability (Switzerland), 8(4), 1–18. https://doi.org/10.3390/su8040400
 
 <div style="margin-top: 2rem;">
   <a href="https://www.linkedin.com/pulse/circular-cities-way-forward-building-sustainable-asia-veeravalli/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.5rem; background-color: #0a66c2; color: #fff; padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; font-size: 0.9rem; font-weight: 600;">

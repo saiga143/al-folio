@@ -18,7 +18,17 @@
       "Bash(python -c \"import json; d=json.load\\(open\\('graphify-out/.graphify_chunk_01.json',encoding='utf-8'\\)\\); print\\('valid json, nodes:', len\\(d['nodes']\\), 'edges:', len\\(d['edges']\\)\\)\")",
       "PowerShell(& \\(Get-Content graphify-out\\\\.graphify_python\\) -m graphify claude install)",
       "Bash(node -e ' *)",
-      "Bash(python3 -c ' *)"
+      "Bash(python3 -c ' *)",
+      "Bash(npm install *)",
+      "Bash(sudo npm install --save-dev prettier @shopify/prettier-plugin-liquid)",
+      "Bash(npm --version)",
+      "Bash(npx --yes prettier@3 . --write)",
+      "Bash(npm_config_cache=/tmp/npm-cache npm install --prefix /tmp/prettier-install prettier @shopify/prettier-plugin-liquid)",
+      "Bash(ls /tmp/prettier-install/node_modules/.bin/prettier)",
+      "Read(//tmp/prettier-install/node_modules/prettier/bin/**)",
+      "Bash(/tmp/prettier-install/node_modules/.bin/prettier --plugin /tmp/prettier-install/node_modules/@shopify/prettier-plugin-liquid/dist/index.js . --write)",
+      "Read(//tmp/prettier-install/**)",
+      "Bash(/tmp/prettier-install/node_modules/.bin/prettier --config /workspaces/al-folio/.prettierrc /workspaces/al-folio --write)"
     ]
   }
 }

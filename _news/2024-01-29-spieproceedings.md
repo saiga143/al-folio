@@ -12,7 +12,7 @@ images:
   slider: true
 ---
 
-🌟 Three of our research papers, presented at the 8th Geoinformation Science Symposium, 2023, Indonesia, are now published as full-length articles in the SPIE Proceedings. 🌟 
+🌟 Three of our research papers, presented at the 8th Geoinformation Science Symposium, 2023, Indonesia, are now published as full-length articles in the SPIE Proceedings. 🌟
 
 I would like to extend my sincere appreciation to my co-authors at the National Centre for Coastal Research (NCCR), CP&SM group for their invaluable support and collaboration on the following two papers 📜:
 
@@ -46,6 +46,6 @@ Sai Ganesh Veeravalli "Assessing the impact of vegetation and its spatial config
     </div>
 </div>
 
-👏Kudos to our team members for their exceptional efforts and contributions. Its a pleasure to share our journey and results with the scientific community and my professional network. 🌍 
+👏Kudos to our team members for their exceptional efforts and contributions. Its a pleasure to share our journey and results with the scientific community and my professional network. 🌍
 
 You can access the papers at my [researchgate profile](https://www.researchgate.net/profile/Sai-Veeravalli)

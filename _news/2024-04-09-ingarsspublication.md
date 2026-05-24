@@ -54,7 +54,7 @@ The results? Beyond satisfying! We achieved detailed topographical data that cou
 
 ---
 
-A heartfelt thank you to Dr. RAMANA MURTHY V MALLAVARAPU, Director of the National Centre for Coastal Research (NCCR), for his encouragement and steadfast belief in the practical applications of our research. 
+A heartfelt thank you to Dr. RAMANA MURTHY V MALLAVARAPU, Director of the National Centre for Coastal Research (NCCR), for his encouragement and steadfast belief in the practical applications of our research.
 
 Congratulations to all our co-authors Senthil Balaganesh Dhanalakshmi Silamban SATYA KIRAN RAJU ALLURI V Ramanathan Uma Sankar Panda.
 

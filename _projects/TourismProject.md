@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How is tourism affected by the bifurcation of states? A story of Andhra Pradesh and Telangana
-description: 
+description:
 img: assets/img/projects/tourismproject.jpg
 importance: 2
 category: sociology
@@ -10,7 +10,7 @@ related_publications: false
 
 The impact of state bifurcation on the tourism industry, both socially and economically was investigated.
 
-In terms of statistics, foot print, and marketing by respective governments, a brief overview of the state of tourism before and after bifurcation was also given. 
+In terms of statistics, foot print, and marketing by respective governments, a brief overview of the state of tourism before and after bifurcation was also given.
 
 Highlighted the government efforts in an attempt to attract more tourists to the respective states and why few of their efforts were highly criticized.
 

@@ -10,7 +10,7 @@ toc:
   sidebar: right
 ---
 
-Last week, I attended the [ELLIS Winter School: AI for Earth System, Hazards & Climate Extremes](https://meditwin-project.eu/ai4eo-winter-school/) in Athens, Greece, an intensive and genuinely thought-provoking experience. 
+Last week, I attended the [ELLIS Winter School: AI for Earth System, Hazards & Climate Extremes](https://meditwin-project.eu/ai4eo-winter-school/) in Athens, Greece, an intensive and genuinely thought-provoking experience.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -18,10 +18,9 @@ Last week, I attended the [ELLIS Winter School: AI for Earth System, Hazards & C
     </div>
 </div>
 
-
 ---
 
-### Rather than just new tools, what stood out most were a few shifts in how I think about AI in geoscience. 
+### Rather than just new tools, what stood out most were a few shifts in how I think about AI in geoscience.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -35,7 +34,7 @@ Last week, I attended the [ELLIS Winter School: AI for Earth System, Hazards & C
 
 Several keynotes – from causal reasoning ([Gustau Camps-Valls](https://www.linkedin.com/in/gustau-camps-valls-0436b8325/)) to responsible AI ([Pedram Ghamisi](https://www.hzdr.de/db/!ContMan.Visi.Card?pUser=132177&pNid=2423)), uncertainty quantification ([Alexander Brenning](https://www.chemgeo.uni-jena.de/en/30866/brenning)), and ethics ([Mrinalini Kochupillai](https://www.linkedin.com/in/mrinalini-kochupillai/?originalSubdomain=de)) – highlighted a clear direction: performance alone is no longer sufficient.
 
-In applications like urban development and vulnerability mapping, where outputs can influence planning and policy, explainability, robustness, and ethical considerations are critical. This strongly resonates with challenges I encounter in our work at DEPRIMAP. 
+In applications like urban development and vulnerability mapping, where outputs can influence planning and policy, explainability, robustness, and ethical considerations are critical. This strongly resonates with challenges I encounter in our work at DEPRIMAP.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -55,7 +54,7 @@ In applications like urban development and vulnerability mapping, where outputs 
 
 A hands-on session on [STAC](https://stacspec.org/en), [xarray](https://docs.xarray.dev/en/stable/#), and [Dask](https://www.dask.org/) introduced scalable approaches to accessing and processing Earth Observation data directly in the cloud. Very well executed session by [Mohanad Albughdabi](https://www.linkedin.com/in/mohanad-albughdadi/).
 
-For research operating at a global scale, this is a major shift. Moving away from local storage constraints towards cloud-native, analysis-ready pipelines could significantly improve efficiency and reproducibility in our workflows. 
+For research operating at a global scale, this is a major shift. Moving away from local storage constraints towards cloud-native, analysis-ready pipelines could significantly improve efficiency and reproducibility in our workflows.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -81,7 +80,7 @@ It reinforced that strong foundations remain essential, regardless of model comp
 
 ## 4. New data paradigms: cubes, embeddings, and multimodal integration
 
-Through the team challenge on multi-modal forecasting of forest dynamics, I was introduced to working with data cubes – integrating spatiotemporal EO, meteorological, and environmental data into a unified structure. 
+Through the team challenge on multi-modal forecasting of forest dynamics, I was introduced to working with data cubes – integrating spatiotemporal EO, meteorological, and environmental data into a unified structure.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -89,7 +88,7 @@ Through the team challenge on multi-modal forecasting of forest dynamics, I was 
     </div>
 </div>
 
-Discussions around embeddings and foundation models also opened up new perspectives on how we might represent and learn from complex Earth System data. Thanks to our challenge tutor, [Vitus Benson](https://www.linkedin.com/in/vitus-benson/), and team members Ayush Prasad, Leticia Perez Sienes, Niki Anastopoulou, Paula Costa, and Niklas Beck. 
+Discussions around embeddings and foundation models also opened up new perspectives on how we might represent and learn from complex Earth System data. Thanks to our challenge tutor, [Vitus Benson](https://www.linkedin.com/in/vitus-benson/), and team members Ayush Prasad, Leticia Perez Sienes, Niki Anastopoulou, Paula Costa, and Niklas Beck.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -102,7 +101,7 @@ Discussions around embeddings and foundation models also opened up new perspecti
 
 ---
 
-It was also great to reconnect with old colleagues and meet new researchers working at the intersection of AI and climate science. 
+It was also great to reconnect with old colleagues and meet new researchers working at the intersection of AI and climate science.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -127,12 +126,10 @@ The challenge is no longer just building models – but building models that are
 
 I am looking forward to integrating these ideas, especially around cloud-native EO processing, uncertainty-aware modelling, and explainable AI into our ongoing work in DEPRIMAP.
 
-A big thanks to the organizers (especially [Dr. Georgina Spyres](https://www.linkedin.com/in/georginaspyresphd/?originalSubdomain=gr) and her fantastic team), speakers, and participants for a well-curated and inspiring week in Athens. 
+A big thanks to the organizers (especially [Dr. Georgina Spyres](https://www.linkedin.com/in/georginaspyresphd/?originalSubdomain=gr) and her fantastic team), speakers, and participants for a well-curated and inspiring week in Athens.
 
 ---
 
 ## Acknowledgements
 
-I would like to thank the [DynEO4SLUMS](https://dyneo4slums.ulb.be/) project financed by BELSPO for funding and supporting the participation in this winter school. 
-
-
+I would like to thank the [DynEO4SLUMS](https://dyneo4slums.ulb.be/) project financed by BELSPO for funding and supporting the participation in this winter school.

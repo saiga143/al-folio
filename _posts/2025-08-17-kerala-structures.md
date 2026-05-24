@@ -16,7 +16,7 @@ citation: true
 > ##### DISCLAIMER
 >
 > The views expressed in this article are my own and do not represent those of any affiliated organizations or government bodies. Field measurements and assessments are based on survey data collected in August 2022.
-{: .block-warning }
+> {: .block-warning }
 
 ## 1. Introduction
 
@@ -24,7 +24,7 @@ Kerala's coastline is as beautiful as it is fragile. Stretching over 593 kilomet
 
 In response, a vast network of seawalls, groins, and breakwaters has been built over decades to hold back the sea. Yet questions remain: How well are these structures working? Which stretches of coast are secure, and which remain vulnerable?
 
-In August 2022, ten scientists covered nearly 600 km of coastline across all nine coastal districts of Kerala, assessing over 1,200 seawalls, groins, and revetments — structure by structure. The findings were published in the *Journal of Coastal Conservation* and directly informed Kerala's first State Shoreline Management Plan (SMP).
+In August 2022, ten scientists covered nearly 600 km of coastline across all nine coastal districts of Kerala, assessing over 1,200 seawalls, groins, and revetments — structure by structure. The findings were published in the _Journal of Coastal Conservation_ and directly informed Kerala's first State Shoreline Management Plan (SMP).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -35,13 +35,11 @@ In August 2022, ten scientists covered nearly 600 km of coastline across all nin
     Source: Sai Ganesh Veeravalli 
 </div>
 
-
-> **Published study:** Murali, M.G., Veeravalli, S.G., Alluri, S.K.R. et al. "Statewide field assessment of coastal protection structures in Kerala, India: structural and functional insights." *Journal of Coastal Conservation* 29, 39 (2025). [Read the paper →](https://link.springer.com/article/10.1007/s11852-025-01124-y)
+> **Published study:** Murali, M.G., Veeravalli, S.G., Alluri, S.K.R. et al. "Statewide field assessment of coastal protection structures in Kerala, India: structural and functional insights." _Journal of Coastal Conservation_ 29, 39 (2025). [Read the paper →](https://link.springer.com/article/10.1007/s11852-025-01124-y)
 
 But beyond the technical report and journal article, there is a deeper story hidden in the data. Each district tells its own tale: of seawalls standing firm or crumbling under waves, of groins that trap sand or fail to hold a beach, and of communities living with the daily reality of an eroding coast.
 
 In this blog post, I take you on a district-by-district journey along Kerala's coastline, bringing together numbers, maps, and field photos to show what the sea has taken, what still stands, and what these patterns mean for the future of coastal resilience in Kerala.
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -68,7 +66,6 @@ Below is the table showing overall structure status statistics before we jump in
 </div>
 
 ---
-
 
 ### 2.1 Thiruvananthapuram
 
@@ -135,8 +132,6 @@ In short, Alappuzha is a reminder that the sheer number of structures is not eno
     Source: Sai Ganesh Veeravalli 
 </div>
 
-
-
 ---
 
 ### 2.4 Ernakulam
@@ -158,8 +153,6 @@ For Ernakulam, the lesson is sharp: high urban and industrial pressure make the 
     Source: Sai Ganesh Veeravalli 
 </div>
 
-
-
 ---
 
 ### 2.5 Thrissur
@@ -170,7 +163,7 @@ Our survey found that only 5 km of seawalls were intact, while 6.7 km were parti
 
 On the ground, the picture was striking. In areas like Kara and Padinjare Vemballor, seawalls had been pushed out of place by strong waves, leaving communities exposed. Other completely broken stretches were visible from Vadanapally to Ganeshamangalam. Only short sections, such as Koolimuttom and Moonupeedika, still had an intact seawall.
 
-When it came to beaches, Thrissur revealed both promise and concern. North of Munambam, wide beaches of nearly 350 m were present, tapering to 25 m near the tsunami colony - an indicator that sediment was accumulating well in these stretches. But further south, from Arattuvazhy to Perinjanam, beaches disappeared entirely in front of the seawalls. Interestingly, older seawalls at Moonupeedika and Palapetty were associated with beaches 40-120 m wide, showing that age and design can sometimes work in favour of stability. 
+When it came to beaches, Thrissur revealed both promise and concern. North of Munambam, wide beaches of nearly 350 m were present, tapering to 25 m near the tsunami colony - an indicator that sediment was accumulating well in these stretches. But further south, from Arattuvazhy to Perinjanam, beaches disappeared entirely in front of the seawalls. Interestingly, older seawalls at Moonupeedika and Palapetty were associated with beaches 40-120 m wide, showing that age and design can sometimes work in favour of stability.
 
 Overall, Thrissur's coast highlights how erosion and protection don't follow a single pattern - some areas have thriving beaches, while others face severe loss. It reinforces the need for district-specific shoreline strategies rather than one-size-fits-all approaches.
 
@@ -183,7 +176,6 @@ Overall, Thrissur's coast highlights how erosion and protection don't follow a s
     Source: Sai Ganesh Veeravalli 
 </div>
 
-
 ---
 
 ### 2.6 Malappuram
@@ -192,7 +184,7 @@ Malappuram's 50.8 km coastline has some of the highest coverage of protection st
 
 Our survey found only 11.1 km of seawalls intact, while 15.3 km were partially damaged, and another 10.5 km had completely collapsed. The groins were in even worse shape - none intact, two partly damaged, and one entirely gone. These figures underline how high coverage doesn't always mean high protection.
 
-Field visits confirmed this vulnerability. Along stretches like Kappirikkad, Veliancode, Puthuponnani, Ponnani beach, and Puthiya Kadappuram, seawalls were visibly broken and scattered.  Yet, in between, there were pockets of resilience - for example, intact walls near Padinjarekka, Azhikkal, Tanur fishing harbour, and Vallikunnu still held their ground, though often flanked by weaker stretches.
+Field visits confirmed this vulnerability. Along stretches like Kappirikkad, Veliancode, Puthuponnani, Ponnani beach, and Puthiya Kadappuram, seawalls were visibly broken and scattered. Yet, in between, there were pockets of resilience - for example, intact walls near Padinjarekka, Azhikkal, Tanur fishing harbour, and Vallikunnu still held their ground, though often flanked by weaker stretches.
 
 The beaches told an equally mixed story. From Kappirikad to Ponnani lighthouse, beaches were almost absent, except for narrow 10-20m strips at Puthuponnani and Mylaichikadu. Further north, however, there were brighter stops - beaches 15-20 m wide at places like Paravanna, Thottumpuram, Alungal, and Anangadi, suggesting sediment was still accumulating in patches. Yet, other locations such as Unniyal, Ottumal, and Kadalundi Nagarm showed no such formation, leaving communities exposed.
 
@@ -207,7 +199,6 @@ In sum, Malappuram illustrates the challenge of relying heavily on structures: e
     Source: Sai Ganesh Veeravalli 
 </div>
 
-
 ---
 
 ### 2.7 Kozhikode
@@ -220,7 +211,7 @@ On the ground, we found long stretches where protection was visibly compromised 
 
 The beaches reinforced this contrast. Some areas, such as Chaliyam to Koyiland harbour, displayed 10-25 m wide beaches, especially near Godhishawaram, Kozhikode beach, Vellayil, Puthiyappa, and Kappad. These stretches suggested reasonably effective sediment retention. But elsewhere at Kadduka bazar, Vakkadavu, Bhatt Road, and Thuvvapara - beaches had vanished, leaving walls directly exposed to waves. Further north, from Kovali beach to Sand Banks, beaches were patchy, with 10-30 m widths at places like Palithazhe, Kodikkal, and Payyoli, but absent in locations such as Urupyakavu temple, Mukhacherry, and Choombala harbour.
 
-Kozhikode's coast is thus a study in contrasts: some areas well-stabilised, others stripped bare. It shows how even within a single district, coastal protection is never uniform - success depends on both structural maintenance and natural processes. 
+Kozhikode's coast is thus a study in contrasts: some areas well-stabilised, others stripped bare. It shows how even within a single district, coastal protection is never uniform - success depends on both structural maintenance and natural processes.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -231,14 +222,13 @@ Kozhikode's coast is thus a study in contrasts: some areas well-stabilised, othe
     Source: Sai Ganesh Veeravalli 
 </div>
 
-
 ---
 
 ### 2.8 Kannur
 
 Kannur's 69 km coastline is defended with 44.1 km of seawalls and 13 groins. This means over 60% of the shoreline is lined with structures. Yet, much like elsewhere in Kerala, the condition of these defences raises concern.
 
-Our survey showed that only a small fraction of seawalls were intact. Instead, 31.8 km were partially damaged, and another 9.3 km had completely disintegrated. The groins reflected this pattern of decline: 5 intact, 5 partially damaged, and 3 fully collapsed. 
+Our survey showed that only a small fraction of seawalls were intact. Instead, 31.8 km were partially damaged, and another 9.3 km had completely disintegrated. The groins reflected this pattern of decline: 5 intact, 5 partially damaged, and 3 fully collapsed.
 
 The picture along the shore was striking. In stretches such as Hussanmotta to Thalaserry harbour, Kizhunna to Thottada, Thayyil to Mappila Bay, and Ettikulam to Payyambalam, seawalls stood broken or weakened. Entirely washed-out segments were seen from Kokkapuram to Thalassery market and south of Kizhunna, leaving vulnerable gaps.
 
@@ -309,7 +299,6 @@ The Kerala survey was more than a one-state exercise. It was a pilot that set th
 
 If you are interested in what SMP documents contain and how they look, you can check out the Puducherry SMP document available officially from their website at this link [here](https://dste.py.gov.in/ppcc/pdf/publichearing/czmp-2019/Draft_SMP.pdf).
 
-
 For us as a team, the Kerala survey was also an unforgettable field experience. Ten scientists, split into four groups, covered nearly 600 km of coast in just weeks, often walking under the blazing sun, talking to fishing communities, and collaborating with KID officials. The knowledge we gathered was not just technical - it was human, grounded in the lives of people who depend on the sea every day.
 
 <div class="row">
@@ -323,13 +312,12 @@ For us as a team, the Kerala survey was also an unforgettable field experience. 
 
 Looking back, this work shows how detailed local surveys can feed directly into policy. The data became a foundation for sustainable planning, while the lessons learned in Kerala are now shaping coastal management across India.
 
-If you'd like to explore the full details, you can read the published article 
+If you'd like to explore the full details, you can read the published article
 
-> **Published study:** Murali, M.G., Veeravalli, S.G., Alluri, S.K.R. et al. "Statewide field assessment of coastal protection structures in Kerala, India: structural and functional insights." *Journal of Coastal Conservation* 29, 39 (2025). [Read the paper →](https://link.springer.com/article/10.1007/s11852-025-01124-y)
+> **Published study:** Murali, M.G., Veeravalli, S.G., Alluri, S.K.R. et al. "Statewide field assessment of coastal protection structures in Kerala, India: structural and functional insights." _Journal of Coastal Conservation_ 29, 39 (2025). [Read the paper →](https://link.springer.com/article/10.1007/s11852-025-01124-y)
 
 ---
 
 ## References
 
-Murali, M.G., Veeravalli, S.G., Alluri, S.K.R. et al. "Statewide field assessment of coastal protection structures in Kerala, India: structural and functional insights." *Journal of Coastal Conservation* 29, 39 (2025). [https://link.springer.com/article/10.1007/s11852-025-01124-y](https://link.springer.com/article/10.1007/s11852-025-01124-y)
-
+Murali, M.G., Veeravalli, S.G., Alluri, S.K.R. et al. "Statewide field assessment of coastal protection structures in Kerala, India: structural and functional insights." _Journal of Coastal Conservation_ 29, 39 (2025). [https://link.springer.com/article/10.1007/s11852-025-01124-y](https://link.springer.com/article/10.1007/s11852-025-01124-y)

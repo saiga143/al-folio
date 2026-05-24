@@ -9,11 +9,11 @@ toc:
   sidebar: right
 ---
 
-Extremely delighted to share my first scientific research publication. It has been on work for the past two years and is a special one for me. I am greatful and congratulate all the co-authors Simbarashe Chereni (Ph.D.) Richard Sliuzas Johannes Flacke Martin van Maarseveen. A big kudous to all of us. 
+Extremely delighted to share my first scientific research publication. It has been on work for the past two years and is a special one for me. I am greatful and congratulate all the co-authors Simbarashe Chereni (Ph.D.) Richard Sliuzas Johannes Flacke Martin van Maarseveen. A big kudous to all of us.
 
 Our research article "Factors influencing flood damage mitigation among micro and small businesses in Kampala, Uganda" has published in the Elsevier journal - International Journal of Disaster Risk Reduction (Impact factor: 4.842)
 
-A big thanks to Faculty of Geo-Information Science and Earth Observation (ITC) of the University of Twente , University of Twente for their commitment to Open science and making the article open access. 
+A big thanks to Faculty of Geo-Information Science and Earth Observation (ITC) of the University of Twente , University of Twente for their commitment to Open science and making the article open access.
 
 Veeravalli, S. G., Chereni, S., Sliuzas, R. V., Flacke, J., & Maarseveen, M. (2022). Factors influencing flood damage mitigation among micro and small businesses in Kampala, Uganda. International Journal of Disaster Risk Reduction, 82, 103315.
 https://doi.org/10.1016/j.ijdrr.2022.103315

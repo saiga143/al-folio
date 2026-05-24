@@ -12,7 +12,7 @@ images:
   slider: true
 ---
 
-🌀 Did you know about the Coringa Cyclone of 1839? It was one of the deadliest natural disasters to hit the southeastern coast of India, impacting the region where the crucial Coringa Mangroves are located near the Godavari River delta in Andhra Pradesh. The cyclone was so powerful that it destroyed all 200,000 ships 🛶 in the harbor and an estimated 300,000 people ⚱ lost their lives. It is the third deadliest cyclone in the history! 
+🌀 Did you know about the Coringa Cyclone of 1839? It was one of the deadliest natural disasters to hit the southeastern coast of India, impacting the region where the crucial Coringa Mangroves are located near the Godavari River delta in Andhra Pradesh. The cyclone was so powerful that it destroyed all 200,000 ships 🛶 in the harbor and an estimated 300,000 people ⚱ lost their lives. It is the third deadliest cyclone in the history!
 
 Last week, a significant stakeholder meeting was organized by the National Centre for Coastal Research (NCCR), led by Dr. RAMANA MURTHY V MALLAVARAPU and the team. It is part of a collaborative effort under the Indo-Norwegian partnership. This meeting focused on ecosystem services and accounting for the vital Coringa Mangroves in Andhra Pradesh. The event brought together various stakeholders from across the country, including a delegation from Norway, under the Indo-Norwegian Collaboration on Ecosystem Services and Accounting (INECO).
 
@@ -25,7 +25,6 @@ Last week, a significant stakeholder meeting was organized by the National Centr
 ---
 
 The discussions highlighted not only the ecological importance ☘ of the Coringa Mangroves but also their resilience and contribution to the local economy 💹 and protection against natural calamities. These mangroves are not just a green belt but a lifeline for the coastal ecosystem, supporting biodiversity and providing crucial natural protection.
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -18,7 +18,7 @@ images:
 > ##### DISCLAIMER
 >
 > The views expressed in this article are my own and do not represent those of any affiliated organizations or government bodies.
-{: .block-warning }
+> {: .block-warning }
 
 ## 1. Background
 
@@ -114,7 +114,6 @@ Muthalapozhi Harbour has been plagued by safety concerns, with frequent boat acc
 
 {% include video.liquid path="https://www.youtube.com/embed/-RL7DHZ9fsQ" class="img-fluid rounded z-depth-1" width="100%"  %}
 
-
 In April 2018, a Memorandum of Understanding (MoU) was signed between the Kerala government's Harbour Engineering Department and Adani Ports, granting the latter permission to dismantle a portion of the southern breakwater at Muthalapozhi Harbour to construct a loadout facility for the Vizhinjam Seaport. In return, Adani Ports was obligated to conduct periodic dredging of the harbour channel to maintain navigability (Source: [Down to Earth](https://www.downtoearth.org.in)).
 
 The dismantling of the southern breakwater is also clear from the satellite imagery, which shows the work started in February 2019 and started its usage in early 2020.
@@ -122,7 +121,6 @@ The dismantling of the southern breakwater is also clear from the satellite imag
 <video width="100%" controls>
   <source src="https://storage.googleapis.com/planet-t2/muthalapozhi-harbour-southern-breakwater-changes-i-izDC_xDHg/movie.mp4" type="video/mp4">
 </video>
-
 
 However, there have been allegations of non-compliance with these dredging responsibilities, leading to hazardous conditions for local fishermen. The Kerala government has intervened, directing Adani Ports to resume dredging activities to ensure the safety of the harbour. High-level meetings have been held to address these issues, emphasizing the need for adherence to agreements to protect the lives and livelihoods of the fishing communities (Source: [New Indian Express](https://www.newindianexpress.com)).
 
@@ -156,7 +154,6 @@ The timelapse captures the evolution of the Vizhinjam International Seaport, chr
   <source src="https://storage.googleapis.com/planet-t2/vizhinjam-international-sea-port-construction-prog-E9CUXxDHg/movie.mp4" type="video/mp4">
 </video>
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/vizhinjam10.jpg" title="Comparison of Vizhinjam Seaport between 2017 and 2024" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -178,8 +175,6 @@ The timelapse of Muthalapozhi Harbour offers a compelling narrative of intervent
     allowfullscreen
   ></iframe>
 </div>
-
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -10,7 +10,7 @@ toc:
   sidebar: right
 ---
 
-I am grateful that I got to start my professional career at WII, BH lab. Thank you Dr. Bilal Habib sir for the excellent support, opportunity and challenges you have entrusted me with. You have created a wonderful atmosphere in the lab to learn, experiment and prosper. 
+I am grateful that I got to start my professional career at WII, BH lab. Thank you Dr. Bilal Habib sir for the excellent support, opportunity and challenges you have entrusted me with. You have created a wonderful atmosphere in the lab to learn, experiment and prosper.
 
 I will truly miss my seniors and friends who have been so kind, welcoming and helped me grow both professionally and personally. I wish you all the very best and hope that our paths cross again in future. I hope I have added some extra value to the projects I have worked on. BH lab and the learning’s here will be an integral part of my growth and I will be a proud BH lab alumni.
 

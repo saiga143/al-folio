@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experimental studies on properties of concrete mixed with iron ore tailings and copper slag
-description: 
+description:
 img: assets/img/projects/concrete.jpg
 importance: 2
 category: civil-engineering

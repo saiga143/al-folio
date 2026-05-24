@@ -17,12 +17,11 @@ featured: false
 > ##### DISCLAIMER
 >
 > The views expressed in this article are my own and do not represent those of any affiliated organizations or government bodies. The area measurements are an estimate from satellite imagery and, hence, not precise values.
-{: .block-warning }
-
+> {: .block-warning }
 
 ## 1. Introduction – The Forest at Stake
 
-In the heart of northern Chhattisgarh lies [Hasdeo Arand](https://maps.app.goo.gl/nCD7ZZbzQLJpab3z9), one of India’s last great stretches of unbroken forest. Locals call it the ‘lungs of Chhattisgarh’, and it’s not hard to see why - the canopy stretches for miles, home to elephants, leopards, sloth bears, and countless other species. Rivers and streams crisscross the landscape, sustaining both wildlife and hundreds of indigenous villages that have lived here for generations (Cassey, 2020; Naidu, 2024). 
+In the heart of northern Chhattisgarh lies [Hasdeo Arand](https://maps.app.goo.gl/nCD7ZZbzQLJpab3z9), one of India’s last great stretches of unbroken forest. Locals call it the ‘lungs of Chhattisgarh’, and it’s not hard to see why - the canopy stretches for miles, home to elephants, leopards, sloth bears, and countless other species. Rivers and streams crisscross the landscape, sustaining both wildlife and hundreds of indigenous villages that have lived here for generations (Cassey, 2020; Naidu, 2024).
 
 But beneath this green expanse lies another treasure: an estimated **5 billion tonnes of coal** (Paliwal, 2022). For decades, the presence of this resource set up a collision course between energy needs and ecological survival. At one point, Hasdeo was classified as a ‘**no-go**’ zone for mining because of its dense tree cover and biodiversity (Sra, 2020). That protection, however, did not last.
 
@@ -47,9 +46,9 @@ The first step toward mining in Hasdeo Arand came in 2007, when the Parsa East a
 
 From the outset, PEKB was controversial. In 2010, India’s Forest Advisory Committee recommended that mining not be allowed in Hasdeo Arand, calling it a ‘no-go’ zone because of the forest’s dense canopy and ecological importance (Sra, 2020). Yet in March 2012, the central government granted final (Stage II) clearance for PEKB (Paliwal, 2022). The decision went against the advice of the ministry’s own experts and inspection reports, which had also flagged that local indigenous communities had not given free and informed consent (Cassey, 2020; Sra, 2020). Concerns were set aside in the name of meeting energy demands.
 
-Meanwhile, Rajasthan’s power utility had brought in a private partner to actually develop and operate the mine. In 2007, it formed a joint venture with the Adani Group, one of India’s largest conglomerates, which took a majority stake (74%) in a new company called Parsa Kente Collieries Ltd (Paliwal, 2022). By 2013, Adani was on the ground as the official Mine Developer and Operator (MDO), responsible for acquiring land, resettling villages, and extracting coal (Paliwal, 2022). 
+Meanwhile, Rajasthan’s power utility had brought in a private partner to actually develop and operate the mine. In 2007, it formed a joint venture with the Adani Group, one of India’s largest conglomerates, which took a majority stake (74%) in a new company called Parsa Kente Collieries Ltd (Paliwal, 2022). By 2013, Adani was on the ground as the official Mine Developer and Operator (MDO), responsible for acquiring land, resettling villages, and extracting coal (Paliwal, 2022).
 
-The first visible transformation appeared that year. In early 2013, tree-felling began, and open-pit mining machinery rolled in near the villages of Parsa and Salhi. By December 2013, satellite images clearly show forest clearing underway, with settlements inside the block boundaries gradually erased and residents displaced. 
+The first visible transformation appeared that year. In early 2013, tree-felling began, and open-pit mining machinery rolled in near the villages of Parsa and Salhi. By December 2013, satellite images clearly show forest clearing underway, with settlements inside the block boundaries gradually erased and residents displaced.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -60,10 +59,9 @@ The first visible transformation appeared that year. In early 2013, tree-felling
     Satellite imagery comparison of the PEKB coal block between 2011 and 2013. (Basemap: Google Earth Pro)
 </div>
 
+Families were relocated to a resettlement site in Basen, where they received compensation but lost their ancestral homes and forest-based livelihoods. Oral histories collected later suggest that this displacement fractured communities, with many families struggling to adapt in the years that followed (Cassey, 2020; Paliwal, 2022; Ravi, 2022).
 
-Families were relocated to a resettlement site in Basen, where they received compensation but lost their ancestral homes and forest-based livelihoods. Oral histories collected later suggest that this displacement fractured communities, with many families struggling to adapt in the years that followed (Cassey, 2020; Paliwal, 2022; Ravi, 2022). 
-
-Many news reports specifically highlight the erasure of Kete village as symbolic of PEKB’s impact. In my analysis of historical settlement footprints, most of the affected hamlets fall within the official boundary of Parsa village (based on the 2001 Census shapefile). This difference likely reflects boundary updates over time. Regardless of administrative lines, the evidence is clear: by 2013, several settlements that once stood within the PEKB coal block had begun to vanish from the landscape. 
+Many news reports specifically highlight the erasure of Kete village as symbolic of PEKB’s impact. In my analysis of historical settlement footprints, most of the affected hamlets fall within the official boundary of Parsa village (based on the 2001 Census shapefile). This difference likely reflects boundary updates over time. Regardless of administrative lines, the evidence is clear: by 2013, several settlements that once stood within the PEKB coal block had begun to vanish from the landscape.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -82,10 +80,10 @@ Over a decade of satellite imagery reveals how the PEKB coal block has reshaped 
 - Forest removed: about 1,013 hectares of forest have been cleared, meaning nearly three-quarters (73%) of the mine’s area once held dense forest cover.
 
 - Growth phases: the expansion has not been uniform. Instead, it unfolded in four distinct phases:
-    - Phase I (2013-2016): initial growth, steady but moderate.
-    - Phase II (2016-2019): rapid expansion, the steepest surge in deforestation.
-    - Slowdown (2020-2022): growth nearly stalled, coinciding with protests and a state resolution against mining.
-    - Phase III (2023-2025): a fresh surge as new political support accelerated tree felling.
+  - Phase I (2013-2016): initial growth, steady but moderate.
+  - Phase II (2016-2019): rapid expansion, the steepest surge in deforestation.
+  - Slowdown (2020-2022): growth nearly stalled, coinciding with protests and a state resolution against mining.
+  - Phase III (2023-2025): a fresh surge as new political support accelerated tree felling.
 
 - Settlements erased: several small hamlets that existed in 2010 within the PEKB block no longer appear on satellite images in 2025, confirming reports of entire villages being displaced.
 
@@ -134,9 +132,9 @@ Based on the 2001 census village boundaries, most of the settlements in the PEKB
 
 If the first years marked a cautious start, the period between 2016 and 2019 brought the most dramatic changes in Hasdeo Arand. The mine footprint nearly doubled in this phase, growing from 503 hectares in 2016 to 955 hectares by 2019. This was the period of largest year-on-year increases: +136 ha in 2017, +191 ha in 2018, and +125 ha in 2019.
 
-Forest loss rose in parallel, crossing the 500-hectare mark by 2019, more than half of the total forest (till June 2025) cleared so far. Much of this loss was concentrated in contiguous patches, fragmenting what was once a dense canopy. 
+Forest loss rose in parallel, crossing the 500-hectare mark by 2019, more than half of the total forest (till June 2025) cleared so far. Much of this loss was concentrated in contiguous patches, fragmenting what was once a dense canopy.
 
-Satellite images from these years show how the pit expanded aggressively outward, consuming large tracts of the block and some settlements and moving closer to the boundaries of nearby villages. What had started as a single open pit now began to resemble a sprawling mining zone. It is during the 2017/2018 period a bunch of hamlets that are in the centre of PEKB block were completed consumed by the mining pits. 
+Satellite images from these years show how the pit expanded aggressively outward, consuming large tracts of the block and some settlements and moving closer to the boundaries of nearby villages. What had started as a single open pit now began to resemble a sprawling mining zone. It is during the 2017/2018 period a bunch of hamlets that are in the centre of PEKB block were completed consumed by the mining pits.
 
 Reports from the time reinforce this picture. By 2017, PEKB was operating at a capacity of 10-15 million tonnes of coal per year (Naidu, 2024). Local communities described this period as the peak of tree felling, with several protests held against the rapid clearances. Activists also highlighted the cancellation of community forest rights in villages like Ghatbarra as a turning point that deepened tensions between residents and mining authorities (Derhgawen and Mohan, 2024; Paliwal, 2022; Ravi, 2022).
 
@@ -246,7 +244,7 @@ These calculations are research estimates, meant to illustrate the scale and pac
 ## References
 
 - Cassey, B., 2020. “The forest is everything”: indigenous tribes in India battle to save their home from Adani – in pictures. [The Guardian](https://www.adaniwatch.org/the_details_of_adani_s_colossal_coal_mining_agenda). Accessed on 26 Sep 2025
-- Das, A., 2024. The details of Adani’s colossal coal-mining agenda. [Adani Watch](https://www.adaniwatch.org/the_details_of_adani_s_colossal_coal_mining_agenda). Accessed on 26 Sep 2025 
+- Das, A., 2024. The details of Adani’s colossal coal-mining agenda. [Adani Watch](https://www.adaniwatch.org/the_details_of_adani_s_colossal_coal_mining_agenda). Accessed on 26 Sep 2025
 - Derhgawen, S., Mohan, D., 2024. Erased from the Map: The Story of a Village in Hasdeo. [The Wire](https://thewire.in/rights/erased-from-the-map-the-story-of-a-village-in-hasdeo). Accessed on 26 Sep 2025
 - Law, G., 2023. The forgotten people in Adani’s agenda of coal exploitation in India - a list of community conflicts. [Adani Watch](https://www.adaniwatch.org/adani_s_coal_based_community_conflicts_in_india). Accessed on 26 Sep 2025
 - Paliwal, A., 2022. ‘It was a set-up, we were fooled’: the coal mine that ate an Indian village. [The Guardian](https://www.theguardian.com/environment/2022/dec/20/india-adani-coal-mine-kete-hasdeo-arand-forest-displaced-villages). Accessed on 26 Sep 2025

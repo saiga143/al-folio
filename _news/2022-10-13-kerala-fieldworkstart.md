@@ -10,9 +10,9 @@ toc:
   sidebar: right
 ---
 
-A recent report on Kerala revealed that around 41% of the coast is eroding. To deal with this the Government of Kerala is looking for sustainable solutions. 
+A recent report on Kerala revealed that around 41% of the coast is eroding. To deal with this the Government of Kerala is looking for sustainable solutions.
 
-Though 50% Kerala coast was protected with structures, understanding of the performance of structures is required. Hence, a detailed survey is planned to collect crucial information including coastal Geomorphology. 
+Though 50% Kerala coast was protected with structures, understanding of the performance of structures is required. Hence, a detailed survey is planned to collect crucial information including coastal Geomorphology.
 
 A team of 10 project scientists divided into 4 teams are travelling to Kerala today (9th August 2022). The team will be covering the entire 590Km long coast of Kerala spanning across 9 districts.
 
@@ -47,4 +47,3 @@ This study is being conducting in collaboration with Kerala Irrigation Departmen
 - [Link 6](https://www.linkedin.com/posts/saiganeshveeravalli_fieldstories-nccr-kerala-activity-6965679573346762752-NvwA?utm_source=share&utm_medium=member_desktop&rcm=ACoAABe0KncBoci8gzEq1iu8vlee-wl6a3bETgY)
 
 - [Link 7](https://www.linkedin.com/posts/saiganeshveeravalli_fieldstories-nccr-kerala-activity-6966075786411868160-RSXG?utm_source=share&utm_medium=member_desktop&rcm=ACoAABe0KncBoci8gzEq1iu8vlee-wl6a3bETgY)
-
