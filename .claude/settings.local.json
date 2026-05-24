@@ -28,7 +28,18 @@
       "Read(//tmp/prettier-install/node_modules/prettier/bin/**)",
       "Bash(/tmp/prettier-install/node_modules/.bin/prettier --plugin /tmp/prettier-install/node_modules/@shopify/prettier-plugin-liquid/dist/index.js . --write)",
       "Read(//tmp/prettier-install/**)",
-      "Bash(/tmp/prettier-install/node_modules/.bin/prettier --config /workspaces/al-folio/.prettierrc /workspaces/al-folio --write)"
+      "Bash(/tmp/prettier-install/node_modules/.bin/prettier --config /workspaces/al-folio/.prettierrc /workspaces/al-folio --write)",
+      "Bash(/tmp/prettier-install/node_modules/.bin/prettier --version)",
+      "Bash(node_modules/.bin/prettier --config /workspaces/al-folio/.prettierrc --check /workspaces/al-folio/_data/cv.yml /workspaces/al-folio/_config.yml /workspaces/al-folio/_layouts/bib.liquid /workspaces/al-folio/_layouts/post.liquid /workspaces/al-folio/.gitignore)",
+      "Bash(node_modules/.bin/prettier --config /workspaces/al-folio/.prettierrc --check /workspaces/al-folio)",
+      "Bash(grep -E \"^\\\\[error\\\\]|^$\")",
+      "Bash(node_modules/.bin/prettier --config /workspaces/al-folio/.prettierrc --ignore-path /workspaces/al-folio/.prettierignore --check /workspaces/al-folio)",
+      "Bash(node_modules/.bin/prettier --config /workspaces/al-folio/.prettierrc --ignore-path /workspaces/al-folio/.prettierignore --write /workspaces/al-folio/_pages/projects.md)",
+      "Bash(pip3 show *)",
+      "Bash(pip install *)",
+      "Bash(pip3 install *)",
+      "Bash(python3 -m pip install rendercv)",
+      "Bash(node_modules/.bin/prettier --config /workspaces/al-folio/.prettierrc --ignore-path /workspaces/al-folio/.prettierignore --write /workspaces/al-folio/.github/workflows/render-cv.yml)"
     ]
   }
 }

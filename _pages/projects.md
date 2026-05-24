@@ -43,6 +43,7 @@ toc:
 {% assign cat_projects = site.projects | where: "category", cat | sort: "importance" %}
 {% if cat_projects.size > 0 %}
 <a id="{{ cat }}" href=".#{{ cat }}">
+
 <h3 class="mt-4 mb-3" style="font-size: 1.25rem; font-weight: 600; color: var(--global-text-color);">{{ label }}</h3>
 </a>
 <div class="row row-cols-1 row-cols-md-2">
