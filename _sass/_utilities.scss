@@ -180,6 +180,10 @@ html.transition *:after {
 nav[data-toggle="toc"] {
   top: 5rem;
 
+  .nav .nav {
+    display: block;
+  }
+
   .nav .nav > li > a {
     font-size: 0.75rem;
   }
@@ -444,8 +448,45 @@ nav[data-toggle="toc"] {
   z-index: 999;
 }
 
+// TOC grid layout (Distill-inspired: content + gutter columns, no fixed positioning)
+
+.toc-page-wrapper {
+  display: grid;
+  grid-template-columns: 1fr minmax(180px, 200px);
+  grid-template-areas: "content toc";
+  column-gap: 2rem;
+  max-width: 1200px;
+  margin: 3rem auto 0;
+  padding: 0 1rem;
+  align-items: start;
+
+  &.toc-left {
+    grid-template-columns: minmax(180px, 200px) 1fr;
+    grid-template-areas: "toc content";
+  }
+
+  @media (max-width: 1100px) {
+    grid-template-columns: 1fr;
+    grid-template-areas: "content";
+  }
+}
+
+.toc-page-content {
+  grid-area: content;
+  min-width: 0;
+}
+
 #toc-sidebar {
+  grid-area: toc;
+  position: sticky;
+  top: 5rem;
+  max-height: calc(100vh - 6rem);
+  overflow-y: auto;
   z-index: 1;
+
+  @media (max-width: 1100px) {
+    display: none;
+  }
 }
 
 .echarts {

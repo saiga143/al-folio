@@ -1,0 +1,55 @@
+<style>
+  @import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&display=swap");
+
+  .author-signature {
+    text-align: left;
+    margin: 2.5rem 0 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--global-divider-color, rgba(0, 0, 0, 0.1));
+  }
+
+  .author-signature p {
+    font-family: "Dancing Script", "Segoe Script", cursive;
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--global-text-color);
+    display: inline-block;
+    margin: 0;
+    clip-path: inset(0 100% 0 0);
+  }
+
+  .author-signature.is-visible p {
+    animation: write-signature 2s ease-out forwards;
+    animation-delay: 0.2s;
+  }
+
+  @keyframes write-signature {
+    from {
+      clip-path: inset(0 100% 0 0);
+    }
+    to {
+      clip-path: inset(0 0% 0 0);
+    }
+  }
+</style>
+
+<div class="author-signature" id="author-signature">
+  <p>Sai Ganesh Veeravalli</p>
+</div>
+
+<script>
+  (function () {
+    var el = document.getElementById("author-signature");
+    if (!el) return;
+    var observer = new IntersectionObserver(
+      function (entries) {
+        if (entries[0].isIntersecting) {
+          el.classList.add("is-visible");
+          observer.disconnect();
+        }
+      },
+      { threshold: 0.5 }
+    );
+    observer.observe(el);
+  })();
+</script>

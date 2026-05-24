@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="wg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a6e8e"/>
+      <stop offset="100%" stop-color="#0d4f6b"/>
+    </linearGradient>
+  </defs>
+  <circle cx="50" cy="50" r="48" fill="url(#wg)"/>
+  <!-- "WoS" text label -->
+  <text x="50" y="46" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="bold"
+        fill="white" text-anchor="middle" dominant-baseline="middle">WoS</text>
+  <!-- thin rule -->
+  <line x1="22" y1="57" x2="78" y2="57" stroke="white" stroke-width="1.5" opacity="0.6"/>
+  <!-- "Web of Science" subtitle in small caps style -->
+  <text x="50" y="70" font-family="Arial,Helvetica,sans-serif" font-size="8.5"
+        fill="white" text-anchor="middle" dominant-baseline="middle" letter-spacing="0.5">Web of Science</text>
+</svg>

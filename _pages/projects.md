@@ -2,64 +2,55 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research and academic projects spanning geospatial science, urban sustainability, civil engineering, and more.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
 horizontal: false
+toc:
+  sidebar: right
 ---
 
-<!-- pages/projects.md -->
 <div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
+
+  <!-- Research Projects -->
+  <a id="research-projects" href=".#research-projects">
+    <h2 class="category">Research Projects</h2>
   </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
+  {% assign research_projects = site.projects | where: "category", "research" | sort: "importance" %}
+  {% if research_projects.size > 0 %}
     <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+      {% for project in research_projects %}
+        {% include projects.liquid %}
+      {% endfor %}
     </div>
-  </div>
   {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
+    <p class="text-muted">No research projects yet.</p>
   {% endif %}
+
+  <!-- Academic Projects -->
+  <a id="academic-projects" href=".#academic-projects">
+    <h2 class="category" style="margin-top: 2rem;">Academic Projects</h2>
+  </a>
+
+  <p class="mt-2 mb-4">I have completed numerous projects as part of my bachelor's and master's degrees, hackathons, and on my own over the years. Below is the list of all such projects categorized into appropriate themes.</p>
+
+  {% assign academic_cats = "gis-rs,civil-engineering,sociology" | split: "," %}
+  {% assign academic_labels = "GIS & Remote Sensing for Urban Planning,Civil Engineering,Sociology" | split: "," %}
+
+  {% for i in (0..2) %}
+    {% assign cat = academic_cats[i] %}
+    {% assign label = academic_labels[i] %}
+    {% assign cat_projects = site.projects | where: "category", cat | sort: "importance" %}
+    {% if cat_projects.size > 0 %}
+      <a id="{{ cat }}" href=".#{{ cat }}">
+        <h3 class="mt-4 mb-3" style="font-size: 1.25rem; font-weight: 600; color: var(--global-text-color);">{{ label }}</h3>
+      </a>
+      <div class="row row-cols-1 row-cols-md-2">
+        {% for project in cat_projects %}
+          {% include projects.liquid %}
+        {% endfor %}
+      </div>
+    {% endif %}
   {% endfor %}
 
-{% else %}
-
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
 </div>

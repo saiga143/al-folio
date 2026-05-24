@@ -23,6 +23,14 @@ $(document).ready(function () {
     $(".publications h2").each(function () {
       $(this).attr("data-toc-skip", "");
     });
+    // remove project card titles from the TOC (only targets the projects page)
+    $(".projects .card h2").each(function () {
+      $(this).attr("data-toc-skip", "");
+    });
+    // remove CV entry-level headings (position/company h6) from the TOC
+    $(".cv h6").each(function () {
+      $(this).attr("data-toc-skip", "");
+    });
     var navSelector = "#toc-sidebar";
     var $myNav = $(navSelector);
     Toc.init($myNav);

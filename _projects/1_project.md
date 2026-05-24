@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: DEPRIMAP
+description: Unraveling the dynamics of deprived urban areas in the Majority World using AI and Earth Observation to foster evidence-based sustainable planning
+img: assets/img/logos/deprimap.png
 importance: 1
-category: work
-related_publications: true
+category:
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

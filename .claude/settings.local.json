@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(docker compose *)",
+      "PowerShell(Get-Command docker -ErrorAction SilentlyContinue; $env:PATH -split \";\" | Where-Object { $_ -match -join\\(\"docker\",\"desktop\"\\) })",
+      "PowerShell($env:PATH = \"C:\\\\Program Files\\\\Docker\\\\Docker\\\\resources\\\\bin;$env:PATH\"; cd \"f:\\\\Personal website\\\\githubwebsite\\\\al-folio\"; docker compose up)",
+      "PowerShell($env:PATH = \"C:\\\\Program Files\\\\Docker\\\\Docker\\\\resources\\\\bin;$env:PATH\"; docker logs al-folio-jekyll-1 --tail 30)",
+      "PowerShell(Start-Sleep -Seconds 15; $env:PATH = \"C:\\\\Program Files\\\\Docker\\\\Docker\\\\resources\\\\bin;$env:PATH\"; docker logs al-folio-jekyll-1 --tail 15)",
+      "PowerShell($env:PATH = \"C:\\\\Program Files\\\\Docker\\\\Docker\\\\resources\\\\bin;$env:PATH\"; cd \"f:\\\\Personal website\\\\githubwebsite\\\\al-folio\"; docker compose restart)",
+      "PowerShell($env:PATH = \"C:\\\\Program Files\\\\Docker\\\\Docker\\\\resources\\\\bin;$env:PATH\"; docker logs al-folio-jekyll-1 --tail 20)",
+      "PowerShell($env:PATH = \"C:\\\\Program Files\\\\Docker\\\\Docker\\\\resources\\\\bin;$env:PATH\"; docker logs al-folio-jekyll-1 --tail 10)",
+      "PowerShell($env:PATH = \"C:\\\\Program Files\\\\Docker\\\\Docker\\\\resources\\\\bin;$env:PATH\"; docker logs al-folio-jekyll-1 2>&1 | Select-Object -Last 15)",
+      "PowerShell($env:PATH = \"C:\\\\Program Files\\\\Docker\\\\Docker\\\\resources\\\\bin;$env:PATH\"; docker logs al-folio-jekyll-1 --since 5m 2>&1 | Select-Object -Last 20)",
+      "WebFetch(domain:www.sgveeravalli.com)",
+      "Bash(python -c \"import os; os.makedirs\\('graphify-out', exist_ok=True\\); print\\('dir ok'\\)\")",
+      "Bash(python3 -c \"import os; os.makedirs\\('graphify-out', exist_ok=True\\); print\\('dir ok'\\)\")",
+      "Bash(python graphify-out/build_chunk_01.py)",
+      "Bash(python -c \"import json; d=json.load\\(open\\('graphify-out/.graphify_chunk_01.json',encoding='utf-8'\\)\\); print\\('valid json, nodes:', len\\(d['nodes']\\), 'edges:', len\\(d['edges']\\)\\)\")",
+      "PowerShell(& \\(Get-Content graphify-out\\\\.graphify_python\\) -m graphify claude install)",
+      "Bash(node -e ' *)",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}

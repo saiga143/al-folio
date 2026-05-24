@@ -4,6 +4,29 @@
 
 @use "variables" as v;
 
+body,
+p,
+li,
+.description,
+.post-content {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 300;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.post-title,
+.navbar-brand,
+.title,
+.name {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-weight: 600;
+}
+
 p,
 h1,
 h2,
