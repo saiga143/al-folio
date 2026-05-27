@@ -7,6 +7,4 @@ nav_order: 7
 cv_pdf: /assets/pdf/SGVeeravalli_CV_Nov2025.pdf # you can also use external links here
 cv_format: rendercv # options: rendercv, jsonresume
 description:
-toc:
-  sidebar: left
 ---
