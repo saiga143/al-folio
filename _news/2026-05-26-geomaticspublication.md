@@ -38,13 +38,13 @@ The data collected through this framework became the foundation for several late
     </div>
 </div>
 
-Veeravalli, S. G., Murali, M. G., Subburaj, S., Alluri, S. K. R., Ramanathan, V., & Murthy, M. V. R. (2025). Integrating coastal protection structures into vulnerability assessments: A case study from Kerala, India. *Ocean & Coastal Management*, 266, 107670. [https://doi.org/10.1016/j.ocecoaman.2025.107670](https://doi.org/10.1016/j.ocecoaman.2025.107670)
+Veeravalli, S. G., Murali, M. G., Subburaj, S., Alluri, S. K. R., Ramanathan, V., & Murthy, M. V. R. (2025). Integrating coastal protection structures into vulnerability assessments: A case study from Kerala, India. _Ocean & Coastal Management_, 266, 107670. [https://doi.org/10.1016/j.ocecoaman.2025.107670](https://doi.org/10.1016/j.ocecoaman.2025.107670)
 
-Murali, M. G., Veeravalli, S. G., Alluri, S. K. R., Ramanathan, V., & Ramana Murthy, M. V. (2025). Statewide field assessment of coastal protection structures in Kerala, India: structural and functional insights. *Journal of Coastal Conservation*, 29(4), 39. [https://doi.org/10.1007/s11852-025-01124-y](https://doi.org/10.1007/s11852-025-01124-y)
+Murali, M. G., Veeravalli, S. G., Alluri, S. K. R., Ramanathan, V., & Ramana Murthy, M. V. (2025). Statewide field assessment of coastal protection structures in Kerala, India: structural and functional insights. _Journal of Coastal Conservation_, 29(4), 39. [https://doi.org/10.1007/s11852-025-01124-y](https://doi.org/10.1007/s11852-025-01124-y)
 
-Veeravalli, S. G., Noujas, V., Ramanathan, V., Murthy, M. V. R., et al. (2024). An integrated GIS methodology for identifying high-risk areas due to damaged coastal protection structures: a case study of Kollam district in Kerala, India. In *Eighth Geoinformation Science Symposium 2023* (Vol. 12977, pp. 371–379). SPIE. [https://doi.org/10.1117/12.3009595](https://doi.org/10.1117/12.3009595)
+Veeravalli, S. G., Noujas, V., Ramanathan, V., Murthy, M. V. R., et al. (2024). An integrated GIS methodology for identifying high-risk areas due to damaged coastal protection structures: a case study of Kollam district in Kerala, India. In _Eighth Geoinformation Science Symposium 2023_ (Vol. 12977, pp. 371–379). SPIE. [https://doi.org/10.1117/12.3009595](https://doi.org/10.1117/12.3009595)
 
-Reshma, K. N., John, J. S., Veeravalli, S. G., Mridula, G. M., Alluri, S. K. R., Ramanathan, V., & Murthy, R. (2024). Remote sensing-based assessment of Varkala cliff retreat in Kerala, India. In *Eighth Geoinformation Science Symposium 2023* (Vol. 12977, pp. 542–549). SPIE. [https://doi.org/10.1117/12.3009585](https://doi.org/10.1117/12.3009585)
+Reshma, K. N., John, J. S., Veeravalli, S. G., Mridula, G. M., Alluri, S. K. R., Ramanathan, V., & Murthy, R. (2024). Remote sensing-based assessment of Varkala cliff retreat in Kerala, India. In _Eighth Geoinformation Science Symposium 2023_ (Vol. 12977, pp. 542–549). SPIE. [https://doi.org/10.1117/12.3009585](https://doi.org/10.1117/12.3009585)
 
 ---
 
@@ -52,10 +52,6 @@ A key part of the revision was also making the tool more reproducible. The XLS s
 
 This paper is not about introducing a complex model. It is about something equally important: building a practical, scalable, and field-ready system for collecting consistent coastal infrastructure data in real-world conditions.
 
-Everyone can access article at this link: https://rdcu.be/fkyg4
+Everyone can access article at this link: [https://rdcu.be/fkyg4](https://rdcu.be/fkyg4)
 
 Thanks to my co-first-author Mridula Murali for sticking along this long journey and grateful to my co-authors Satya Kiran Raju Alluri, V. Ramanathan, and RAMANA MURTHY V MALLAVARAPU, and to the field teams and institutional partners who made the large-scale surveys possible.
-
-
-
-
