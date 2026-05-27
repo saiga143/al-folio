@@ -474,6 +474,8 @@ nav[data-toggle="toc"] {
 .toc-page-content {
   grid-area: content;
   min-width: 0;
+  max-width: 100%;
+  overflow-x: hidden;
 }
 
 #toc-sidebar {

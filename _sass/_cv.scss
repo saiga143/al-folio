@@ -12,8 +12,24 @@ table.table-cv {
   td,
   th {
     padding: 1px;
-    overflow-wrap: break-word;
-    word-break: break-word;
+  }
+}
+
+// Contact Information table (distinguished by Bootstrap .table class)
+// Label column stays on one line; value column breaks long strings
+table.table.table-cv {
+  width: 100%;
+
+  td:first-child,
+  th:first-child {
+    white-space: nowrap;
+    padding-right: 0.75rem;
+    vertical-align: top;
+  }
+
+  td:not(:first-child),
+  th:not(:first-child) {
+    overflow-wrap: anywhere;
   }
 }
 
