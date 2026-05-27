@@ -338,7 +338,12 @@ ninja.data = [{
           section: "News",},{id: "news-visited-lund-university-for-a-sesac-meeting-and-strategic-planning-sessions-we-kickedoff-hackathon-planning-with-two-industry-partners-read-the-full-deatils-here-also-attended-the-inauguration-of-hägestrand-lab-read-full-details-here",
           title: 'Visited Lund University for a SESAC meeting and strategic planning sessions. We kickedoff...',
           description: "",
-          section: "News",},{id: "projects-analysis-of-urban-heat-island-uhi-effect-in-ahmedabad-india-city",
+          section: "News",},{id: "news-paper-published-in-applied-geomatics-a-mobile-gis-framework-for-in-situ-measurement-of-coastal-defence-conditions",
+          title: 'Paper published in Applied Geomatics. A mobile GIS framework for in-situ measurement of...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-05-26-geomaticspublication/";
+            },},{id: "projects-analysis-of-urban-heat-island-uhi-effect-in-ahmedabad-india-city",
           title: 'Analysis of Urban Heat Island (UHI) effect in Ahmedabad, India city',
           description: "",
           section: "Projects",handler: () => {
