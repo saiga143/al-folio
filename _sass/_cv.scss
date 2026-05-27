@@ -12,6 +12,8 @@ table.table-cv {
   td,
   th {
     padding: 1px;
+    overflow-wrap: break-word;
+    word-break: break-word;
   }
 }
 
