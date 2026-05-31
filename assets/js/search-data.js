@@ -343,6 +343,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-05-26-geomaticspublication/";
+            },},{id: "news-paper-published-in-discover-sustainability-multi-temporal-satellite-mapping-of-coal-mine-expansion-and-forest-loss-in-the-hasdeo-arand-forest-india",
+          title: 'Paper published in Discover Sustainability. Multi-temporal satellite mapping of coal mine expansion and...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-05-31-hasdeopublication/";
             },},{id: "projects-analysis-of-urban-heat-island-uhi-effect-in-ahmedabad-india-city",
           title: 'Analysis of Urban Heat Island (UHI) effect in Ahmedabad, India city',
           description: "",
