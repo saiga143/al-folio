@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paper published in Discover Sustainability. Multi-temporal satellite mapping of coal mine expansion and forest loss in the Hasdeo Arand Forest, India
-date: 2026-05-31 16:11:00-0400
+date: 2026-05-31
 inline: false
 related_posts: false
 categories: publication
