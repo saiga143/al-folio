@@ -76,7 +76,7 @@ This is an investigation driven by facts, visuals, and the truth that no green m
   </div>
 </div>
 
-Satellite imagery from December 2018 to mid-2021 confirms that Rushikonda remained in its original form, with no visible signs of deforestation or large-scale construction. Only ~3 Acres acres of built-up area existed, mostly consisting of small structures from the original Haritha Resort, which blended naturally into the green surroundings. The rest of the hill remained covered in thick vegetation, playing an important role in supporting Visakhapatnam's coastal ecosystem.
+Satellite imagery from December 2018 to mid-2021 confirms that Rushikonda remained in its original form, with no visible signs of deforestation or large-scale construction. Only ≈3 Acres acres of built-up area existed, mostly consisting of small structures from the original Haritha Resort, which blended naturally into the green surroundings. The rest of the hill remained covered in thick vegetation, playing an important role in supporting Visakhapatnam's coastal ecosystem.
 
 Rushikonda's Environmental Significance
 
@@ -146,7 +146,7 @@ While no official announcements were made about the scale of the project, the sa
 
 What started as small clearings in mid-2021 exploded into full-scale land excavation by early 2022. Satellite imagery from March to May 2022 shows the most drastic phase of environmental loss:
 
-- By April/May 2022, ~19.1 acres of land had been impacted either by clearing, digging up, or levelling - over 6 times the original built-up area (~ 3 acres).
+- By April/May 2022, ≈19.1 acres of land had been impacted either by clearing, digging up, or levelling - over 6 times the original built-up area (≈3 acres).
 
 - Huge chunks of the hill were removed, exposing bare land where dense vegetation once stood.
 
@@ -274,9 +274,9 @@ What Remains Today?
 
 With the project completed, satellite imagery from December 2024 offers a final verdict on the physical transformation of Rushikonda.
 
-- ~12 acres of land are now occupied by buildings, roads, and artificial landscape.
+- ≈12 acres of land are now occupied by buildings, roads, and artificial landscape.
 
-- ~3.3 acres are still covered with green mats, likely to mask the excess destruction beyond permitted limits.
+- ≈3.3 acres are still covered with green mats, likely to mask the excess destruction beyond permitted limits.
 
 - The once naturally sloping hill now has flat, concrete spaces, permanently altering its original shape.
 
