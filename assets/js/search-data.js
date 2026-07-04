@@ -353,6 +353,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-07-01-sesac-cain2026/";
+            },},{id: "news-presented-my-ongoing-phd-research-at-climate-ai-nordics-2026-workshop-in-denmark",
+          title: 'Presented my ongoing PhD research at Climate AI Nordics 2026 Workshop in Denmark...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-07-02-cain2026/";
             },},{id: "projects-analysis-of-urban-heat-island-uhi-effect-in-ahmedabad-india-city",
           title: 'Analysis of Urban Heat Island (UHI) effect in Ahmedabad, India city',
           description: "",
