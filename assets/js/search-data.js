@@ -348,6 +348,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-05-31-hasdeopublication/";
+            },},{id: "news-presented-sesac-at-climate-ai-nordics-2026-workshop-in-copenhagen-denmark",
+          title: 'Presented SESAC at Climate AI Nordics 2026 workshop in Copenhagen, Denmark',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-07-01-sesac-cain2026/";
             },},{id: "projects-analysis-of-urban-heat-island-uhi-effect-in-ahmedabad-india-city",
           title: 'Analysis of Urban Heat Island (UHI) effect in Ahmedabad, India city',
           description: "",
