@@ -348,6 +348,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-05-31-hasdeopublication/";
+            },},{id: "news-participated-in-a-hackathon-in-stockholm-to-detect-forest-storm-damages",
+          title: 'Participated in a hackathon in Stockholm to detect forest storm damages',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-06-15-deshackathon2026/";
             },},{id: "news-presented-sesac-at-climate-ai-nordics-2026-workshop-in-copenhagen-denmark",
           title: 'Presented SESAC at Climate AI Nordics 2026 workshop in Copenhagen, Denmark',
           description: "",
