@@ -363,6 +363,29 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-07-02-cain2026/";
+            },},{id: "news-my-first-phd-journal-article-published-in-nature-cities",
+          title: 'My First PhD Journal Article published in Nature Cities.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-08-20-natcitiespublication/";
+            },},{id: "news-a-thank-you-note-to-funders-for-making-my-nature-cities-paper-open-access",
+          title: 'A thank you note to funders for making my Nature Cities paper open-access...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-08-23-natcitiesthankyou/";
+            },},{id: "news-a-week-long-fieldwork-in-umeå-mapping-wetlands-with-drones",
+          title: 'A week long fieldwork in Umeå mapping wetlands with Drones',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-08-25-umeafieldwork/";
+            },},{id: "news-i-was-interviewd-by-university-press-regarding-my-nature-cities-publication-you-can-read-it-here",
+          title: 'I was interviewd by University press regarding my Nature Cities Publication. You can...',
+          description: "",
+          section: "News",},{id: "news-a-new-research-briefing-article-published-in-nature-cities",
+          title: 'A New Research Briefing article published in Nature Cities',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-09-05-natcitiesresearchbriefing/";
             },},{id: "projects-analysis-of-urban-heat-island-uhi-effect-in-ahmedabad-india-city",
           title: 'Analysis of Urban Heat Island (UHI) effect in Ahmedabad, India city',
           description: "",
