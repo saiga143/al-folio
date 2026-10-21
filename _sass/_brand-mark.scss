@@ -1,0 +1,44 @@
+/*******************************************************************************
+ * SGV monogram in the navbar (Orbit design system)
+ * Ring = theme teal, letters = text colour, satellite = brand amber.
+ ******************************************************************************/
+
+:root {
+  --sgv-satellite: #c97f12; // amber-600, for paper grounds
+}
+html[data-theme="dark"] {
+  --sgv-satellite: #f2a93b; // amber-400, for navy grounds
+}
+
+.sgv-mark {
+  display: block;
+  width: 34px;
+  height: 34px;
+  flex: none;
+}
+.sgv-mark__ring {
+  stroke: var(--global-theme-color);
+  stroke-width: 30; // a little heavier than the master mark so the ring holds at 34px
+}
+.sgv-mark__sat {
+  fill: var(--sgv-satellite);
+}
+.sgv-mark__letters {
+  fill: var(--global-text-color);
+}
+
+.navbar-brand.sgv-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+.navbar-brand.sgv-brand:hover .sgv-mark__ring {
+  stroke: var(--global-hover-color);
+}
+
+// On narrow screens, show the mark only when the name would crowd the menu toggle
+@media (max-width: 400px) {
+  .navbar-brand.sgv-brand .sgv-brand__name {
+    display: none;
+  }
+}
