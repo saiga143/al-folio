@@ -59,6 +59,12 @@ layout: default
     </p>
   </header>
 
+  {% if page.cover and page.cover_hide != true %}
+    <div class="post-cover">
+      {% include figure.liquid loading="eager" path=page.cover alt=page.cover_alt class="img-fluid rounded z-depth-1" sizes="(min-width: 930px) 900px, 95vw" %}
+    </div>
+  {% endif %}
+
   <article class="post-content">
     {% if page.toc and page.toc.beginning %}
       <div id="table-of-contents">

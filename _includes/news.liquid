@@ -73,6 +73,11 @@
               </p>
             {% endif %}
           </div>
+          {% if item.cover %}
+            <a class="news-thumb" href="{{ item.url | relative_url }}" tabindex="-1" aria-hidden="true">
+              <img src="{{ item.cover | relative_url }}" alt="" loading="lazy" width="160" height="90">
+            </a>
+          {% endif %}
         </div>
       {% endfor %}
     {% endif %}
