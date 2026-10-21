@@ -406,6 +406,11 @@ ninja.data = [{
           description: "My first invited talk: Hidden deficits, mapping urban deprivation across 5,000+ cities with Earth observation and GeoAI, at MDPI&#39;s ECRS 2026.",
           section: "News",handler: () => {
               window.location.href = "/news/2026-10-21-ecrs2026-invited-talk/";
+            },},{id: "news-our-work-on-coastal-dune-change-along-southeast-india-was-presented-at-the-igcp-project-725-annual-meeting-in-brisbane-australia",
+          title: 'Our work on coastal dune change along Southeast India was presented at the...',
+          description: "Drone and airborne laser data show how coastal dunes along Southeast India changed between 2011 and 2024, and how that change follows the shoreline. Presented at IGCP Project 725 in Brisbane.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-10-22-igcp725-coastal-dunes/";
             },},{id: "projects-analysis-of-urban-heat-island-uhi-effect-in-ahmedabad-india-city",
           title: 'Analysis of Urban Heat Island (UHI) effect in Ahmedabad, India city',
           description: "",
