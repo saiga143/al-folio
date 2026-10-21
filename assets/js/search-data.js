@@ -391,6 +391,11 @@ ninja.data = [{
           description: "SESAC&#39;s first in-person event in Lund: two days of Earth observation, GIS and spatial analysis with around 30 participants from many disciplines.",
           section: "News",handler: () => {
               window.location.href = "/news/2026-09-26-sesac-eo-training-lund/";
+            },},{id: "news-presented-two-papers-and-co-chaired-my-first-session-at-the-45th-earsel-symposium-in-athens-greece",
+          title: 'Presented two papers and co-chaired my first session at the 45th EARSeL Symposium...',
+          description: "Two talks on satellite embeddings for mapping deprived urban areas, two more co-authored papers, and my first session as co-chair at the 45th EARSeL Symposium in Athens.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-10-03-earsel2026-athens/";
             },},{id: "projects-analysis-of-urban-heat-island-uhi-effect-in-ahmedabad-india-city",
           title: 'Analysis of Urban Heat Island (UHI) effect in Ahmedabad, India city',
           description: "",
