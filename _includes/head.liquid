@@ -29,12 +29,20 @@
   >
 {% endif %}
 
-<!-- Custom Fonts: Playfair Display + Inter -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<!-- Brand Fonts: Fraunces + Schibsted Grotesk (self-hosted) -->
 <link
-  rel="stylesheet"
-  href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap"
+  rel="preload"
+  href="{{ '/assets/fonts/brand/Fraunces-SemiBold.woff2' | relative_url }}"
+  as="font"
+  type="font/woff2"
+  crossorigin
+>
+<link
+  rel="preload"
+  href="{{ '/assets/fonts/brand/SchibstedGrotesk-Regular.woff2' | relative_url }}"
+  as="font"
+  type="font/woff2"
+  crossorigin
 >
 
 <!-- Fonts & Icons -->

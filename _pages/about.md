@@ -51,12 +51,12 @@ Observation and environmental advocacy.
 
 <style>
 @keyframes hero-gradient-light {
-  from { background-color: #f8f9ff; }
-  to { background-color: #eef4ff; }
+  from { background-color: #f4f1ea; }
+  to { background-color: #e8e3d8; }
 }
 @keyframes hero-gradient-dark {
-  from { background-color: #0a0e1a; }
-  to { background-color: #0a1628; }
+  from { background-color: #0b1424; }
+  to { background-color: #13213a; }
 }
 .post-header {
   border-radius: 8px;
