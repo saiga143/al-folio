@@ -401,6 +401,11 @@ ninja.data = [{
           description: "Nine months on the RisCon26 organising committee, hosting the opening day with UN SRSG Kamal Kishore, a fully booked SESAC workshop and two co-authored presentations.",
           section: "News",handler: () => {
               window.location.href = "/news/2026-10-10-riscon26/";
+            },},{id: "news-gave-my-first-invited-talk-at-the-6th-international-electronic-conference-on-remote-sensing-ecrs-2026",
+          title: 'Gave my first invited talk at the 6th International Electronic Conference on Remote...',
+          description: "My first invited talk: Hidden deficits, mapping urban deprivation across 5,000+ cities with Earth observation and GeoAI, at MDPI&#39;s ECRS 2026.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-10-21-ecrs2026-invited-talk/";
             },},{id: "projects-analysis-of-urban-heat-island-uhi-effect-in-ahmedabad-india-city",
           title: 'Analysis of Urban Heat Island (UHI) effect in Ahmedabad, India city',
           description: "",
