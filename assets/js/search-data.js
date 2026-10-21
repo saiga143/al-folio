@@ -386,6 +386,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2026-09-05-natcitiesresearchbriefing/";
+            },},{id: "news-co-organised-and-taught-sesac-s-first-earth-observation-training-in-lund-sweden",
+          title: 'Co-organised and taught SESAC’s first Earth Observation training in Lund, Sweden',
+          description: "SESAC&#39;s first in-person event in Lund: two days of Earth observation, GIS and spatial analysis with around 30 participants from many disciplines.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-09-26-sesac-eo-training-lund/";
             },},{id: "projects-analysis-of-urban-heat-island-uhi-effect-in-ahmedabad-india-city",
           title: 'Analysis of Urban Heat Island (UHI) effect in Ahmedabad, India city',
           description: "",
