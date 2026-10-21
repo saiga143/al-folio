@@ -396,6 +396,11 @@ ninja.data = [{
           description: "Two talks on satellite embeddings for mapping deprived urban areas, two more co-authored papers, and my first session as co-chair at the 45th EARSeL Symposium in Athens.",
           section: "News",handler: () => {
               window.location.href = "/news/2026-10-03-earsel2026-athens/";
+            },},{id: "news-helped-organise-riscon26-at-karlstad-university-and-hosted-the-opening-keynote-by-un-srsg-kamal-kishore",
+          title: 'Helped organise RisCon26 at Karlstad University and hosted the opening keynote by UN...',
+          description: "Nine months on the RisCon26 organising committee, hosting the opening day with UN SRSG Kamal Kishore, a fully booked SESAC workshop and two co-authored presentations.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-10-10-riscon26/";
             },},{id: "projects-analysis-of-urban-heat-island-uhi-effect-in-ahmedabad-india-city",
           title: 'Analysis of Urban Heat Island (UHI) effect in Ahmedabad, India city',
           description: "",
